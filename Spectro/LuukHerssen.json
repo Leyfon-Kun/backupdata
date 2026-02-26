@@ -2,40 +2,60 @@
   "name": "Luuk Herssen",
   "element": "Spectro <:espectro:1460534963073056951>",
   "rarity": 5,
-  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "weapon": "Gauntlets <:wgauntlets:1460535414912979004>",
   "role": ["DPS"],
   "image": "https://www.prydwen.gg/static/f7d3412a65cd804192fee1f89181a5a9/b26e2/45_card.webp",
   "build": {
     "bestWeapons": [
-     "They will be added soon!"
+      "Daybreaker's Spine (R1) (100.00%)",
+      "Pulsation Bracer (R1) (85.70%)",
+      "Blazing Justice (R1) (83.40%)",
+      "Moongazer's Sigil (R1) (80.70%)",
+      "Celestial Spiral (R5) (66.50%)"
     ],
     "echoSet": [
-      "They will be added soon!"
+      "Rite of Gilded Revelation"
     ],
     "mainEcho": [
-      "They will be added soon!"
+      "Twin Nova: Nebulous Cannon (RoGR)"
     ],
     "bestEchoStats": [
-      "Cost 4 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)"
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
     ],
     "subStats": [
-      "They will be added soon!"
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Liberation DMG%",
+      "Flat ATK"
     ],
     "endGameStat": [
-      "They will be added soon!"
+      "HP: 14500+",
+      "DEF: 1100+",
+      "ATK: 2100-3000+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 118-125%+",
+      "Spectro DMG Bonus: 40-70%+"
     ],
     "skillPriority": [
-      "They will be added soon!"
+      "Res. Skill",
+      "Res. Liberation",
+      "Basic Attack",
+      "Forte Circuit",
+      "Intro Skill"
     ]
   },
   "team": [
     {
-      "name": "They will be added soon!",
-      "members": ["They will be added soon!"]
+      "name": "Best Team",
+      "members": [":luuk: Luuk Herssen", ":lynae: Lynae, :sanhua: Sanhua", ":mornye: Mornye, :shorekeeper: Shorekeeper, :verina: Verina"]
     }
   ]
+  
 }
