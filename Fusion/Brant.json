@@ -1,0 +1,74 @@
+{
+  "name": "Brant",
+  "element": "Fusion <:efusion:1460535176055488647>",
+  "rarity": 5,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["DPS", "SubDPS", "Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Bulante_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Unflickering Valor (R1) (100.00%)",
+      "Laser Shearer (R1) (77.20%)",
+      "Bloodpact's Pledge (R5) (75.10%)",
+      "Red Spring (R1) (73.10%)",
+      "Emerald of Genesis (R1) (71.30%)"
+    ],
+    "echoSet": [
+      "Tidebreaking Courage",
+      "Molten Rift"
+    ],
+    "mainEcho": [
+      "Dragon of Dirge (TC)",
+      "Nightmare: Inferno Rider (MR)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Energy Regen)",
+      "Cost 3 (Energy Regen, Fusion DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Basic Attack DMG%"
+    ],
+    "endGameStat": [
+      "HP: 16000+",
+      "DEF: 1300+",
+      "ATK: 1600-2000+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 250-280%+",
+      "Fusion DMG Bonus: 10-40%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Basic Attack",
+      "Res. Liberation",
+      "Intro Skill",
+      "Res. Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:galbrena:1461391163813527663> Galbrena, <:changli:1461391171812327545> Changli", "<:brant:1461391168834109520> Brant", "<:lupa:1461391166057611558> Lupa"]
+    },
+    {
+      "name": "Team #2: Mono Fusion Alternatives",
+      "members": ["<:encore:1461391177130442914> Encore, <:chixia:1461391179911532709> Chixia", "<:brant:1461391168834109520> Brant", "<:lupa:1461391166057611558> Lupa, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Team #3: More Alternative Teams",
+      "members": ["<:carlotta:1461391183346532353> Carlotta, <:jinshi:1461391150530301994> Jinshi", "<:brant:1461391168834109520> Brant", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Team #4: DPS Brant",
+      "members": ["<:brant:1461391168834109520> Brant", "<:lupa:1461391166057611558> Lupa, <:sanhua:1461391196957184042> Sanhua", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

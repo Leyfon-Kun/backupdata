@@ -1,0 +1,64 @@
+{
+  "name": "Taoqi",
+  "element": "Havoc <:ehavoc:1460535003791364169>",
+  "rarity": 5,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_taohua_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Discord (R5) (100.00%)",
+     "Dauntless Evernight (R5) (107.54%)"
+    ],
+    "echoSet": [
+      "Rejuvenating Glow",
+	    "Moonlit Clouds"
+    ],
+    "mainEcho": [
+      "Fallacy of No Return (RG)",
+	    "Bell-Borne Geochelone (RG)",
+	    "Impermanence Heron (MC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (DEF%)",
+      "Cost 3 (Energy Regen, DEF%)",
+      "Cost 3 (Energy Regen, DEF%)",
+      "Cost 1 (DEF%)",
+      "Cost 1 (DEF%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate / Crit dmg",
+      "DEF%",
+	    "Flat DEF"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1150+",
+      "ATK: 1800-2200+",
+      "Crit Rate: 60-80%+",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 100%-126%+",
+      "Havoc DMG Bonus: 30-60%+"
+    ],
+    "skillPriority": [
+      "**Support | DPS**",
+      "Forte Circuit **|** Res. Liberation",
+      "Res. Skill **|** Forte Circuit",
+      "Res. Liberation **|** Res. Skill",
+	    "Basic Attack **|** Basic Attack",
+      "Intro Skill **|** Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "-",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:taoqi:1461391084629266566> Taoqi", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "-",
+      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:taoqi:1461391084629266566> Taoqi", "<:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

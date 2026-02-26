@@ -1,0 +1,66 @@
+{
+  "name": "Chisa",
+  "element": "Havoc <:ehavoc:1460535003791364169>",
+  "rarity": 5,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Qianxiao_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Kumokiri (R1) (100.00%)",
+     "Wildfire Mark (R1) (90.10%)",
+     "Ages of Harvest (R1) (84.80%)",
+     "Radiance Cleaver (R1) (83.90%)",
+     "Autumntrace (R5) (73.60%)"
+    ],
+    "echoSet": [
+      "Thread of Severed Fate 3P\n**Best combined with**",
+      "Havoc Eclipse 2P (Recommended)",
+      "Midnight Veil 2P (Recommended)",
+	    "Lingering Tunes 2P",
+	    "Moonlit Clouds 2P",
+	    "Empyrean Anthem 2P"
+    ],
+    "mainEcho": [
+      "Reminiscence: Threnodian - Leviathan (ToSF)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Havoc DMG, ATK%)",
+      "Cost 3 (Havoc DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+	    "ATK%",
+	    "Liberation DMG%",
+	    "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1100+",
+      "ATK: 2000-2500%+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 210-255%+",
+      "Energy Regen: 125%+",
+      "Havoc DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Basic Attack",
+      "Res. Skill",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:cartethyia:1461391117713932431> Cartethyia", "<:ciaccona:1461391123703402517> Ciaccona, <:rover:1461391121132425542> Rover", "<:chisa:1461391089037737984> Chisa"]
+    }
+  ]
+  
+}

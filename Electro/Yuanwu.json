@@ -1,0 +1,63 @@
+{
+  "name": "Yuanwu",
+  "element": "Electro <:eelectro:1460535251666210837>",
+  "rarity": 4,
+  "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
+  "role": ["Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yuanwu_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Verity's Handle (R1) (101.32%)",
+      "Amity Accord (R5) (100.00%)",
+      "Stonard (R5) (93.03%)",
+      "Guardian Gauntlets (R5) (90.36%)",
+      "Originite: Type IV (R5) (86.70%)"
+    ],
+    "echoSet": [
+      "Rejuvenating Glow",
+      "Moonlit Clouds",
+      "Empyrean Anthem"
+    ],
+    "mainEcho": [
+      "Fallacy of No Return (RG)",
+      "Bell-Borne Geochelone (RG)",
+      "Impermanence Heron (MC)",
+      "Nightmare: Tempest Mephis (EA)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Electro DMG%, DEF%)",
+      "Cost 3 (Electro DMG%)",
+      "Cost 1 (DEF%)",
+      "Cost 1 (DEF%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "DEF%"
+    ],
+    "endGameStat": [
+      "HP: 13000+",
+      "DEF: 1800+",
+      "ATK: 1200+",
+      "Crit Rate: 60%+",
+      "Crit DMG: 250%+",
+      "Energy Regen: 100%+",
+      "Electro DMG Bonus: 30-60%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Res. Skill",
+      "Forte Circuit",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:yuanwu:1461391153327898674> Yuanwu", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

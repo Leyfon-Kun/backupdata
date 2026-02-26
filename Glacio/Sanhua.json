@@ -1,0 +1,75 @@
+{
+  "name": "Sanhua",
+  "element": "Glacio <:eglacio:1460535039296012524>",
+  "rarity": 4,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Blazing Brilliance (R1) (108.39%)",
+	    "Red Spring (R1) (103.32%)",
+	    "Emerald of Genesis (R1) (100.00%)",
+	    "Commando of Conviction (R5) (85.50%)",
+	    "Endless Collapse (R5) (84.52%)"
+    ],
+    "echoSet": [
+      "Moonlit Clouds"
+    ],
+    "mainEcho": [
+      "Impermanence Heron (MC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Glacio DMG)",
+      "Cost 3 (Glacio DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+	    "Crit Rate",
+	    "Crit DMG",
+	    "ATK%",
+	    "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+	    "DEF: 1150+",
+	    "ATK: 1800-2200+",
+	    "Crit Rate: 60-80%+",
+	    "Crit DMG: 210-260%+",
+	    "Energy Regen: 100%",
+	    "Glacio DMG Bonus: 30-60%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+	    "Res. Liberation",  
+	    "Res. Skill",
+	    "Intro Skill",
+	    "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:camellya:1461391079545897040> Camellya", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Encore Team",
+      "members": ["<:encore:1461391177130442914> Encore", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },{
+      "name": "Brant Hypercarry Team",
+      "members": ["<:brant:1461391168834109520> Brant", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Budget Havoc Rover Team",
+      "members": ["<:brant:1461391168834109520> Brant", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Carlotta Team",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Yangyang",
+  "element": "Aero <:eaero:1460535334088610005>",
+  "rarity": 4,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yangyang_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Blazing Brilliance (R1) (102.39%)",
+      "Emerald of Genesis (R1) (100.00%)",
+      "Lumingloss (R5) (82.96%)",
+      "Endless Collapse (R5) (82.82%)",
+      "Lunar Cutter (R5) (81.60%)"
+    ],
+    "echoSet": [
+      "Moonlit Clouds",
+      "Sierra Gale"
+    ],
+    "mainEcho": [
+      "Impermanence Heron (MC)",
+      "Nightmare: Feilian Beringal (SG)",
+      "Feilian Beringal (SG)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Aero DMG%)",
+      "Cost 3 (Aero DMG%, Energy Regen)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Liberation DMG%",
+      "Basic DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1150+",
+      "ATK: 1800-2200+",
+      "Crit Rate: 60-80%+",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 107%+",
+      "Aero DMG Bonus: 30-60%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Res. Skill",
+      "Forte Circuit",
+      "Basic Attack",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:yangyang:1461391134453661844> Yangyang", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Budget Expert Team",
+      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:yangyang:1461391134453661844> Yangyang", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Budget Expert Team",
+      "members": ["<:changli:1461391171812327545> Changli", "<:yangyang:1461391134453661844> Yangyang", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

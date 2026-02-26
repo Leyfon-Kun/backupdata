@@ -1,0 +1,72 @@
+{
+  "name": "Encore",
+  "element": "Fusion <:efusion:1460535176055488647>",
+  "rarity": 5,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_anke_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Stringmaster (R1) (110.00%)",
+      "Rime-Draped Sprouts (R1) (104.40%)",
+      "Whispers of Sirens (R1) (103.80%)",
+      "Cosmic Ripples (R1) (100.00%)",
+      "Radiant Dawn (R5) (94.40%)"
+    ],
+    "echoSet": [
+      "Molten Rift",
+      "Flaming Clawprint"
+    ],
+    "mainEcho": [
+      "Nightmare: Inferno Rider (MR)",
+      "Inferno Rider (MR)",
+      "Lioness of Glory (FC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Fusion DMG%, ATK%)",
+      "Cost 3 (Fusion DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Basic Attack DMG%",
+      "Skill DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1200+",
+      "ATK: 2000-2400+",
+      "Crit Rate: 60-75%+",
+      "Crit DMG: 215-285%+",
+      "Energy Regen: 105-130%+",
+      "Fusion DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Res. Skill",
+      "Forte Circuit",
+      "Res. Liberation",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:brant:1461391168834109520> Brant"]
+    },
+    {
+      "name": "With Sanhua",
+      "members": ["<:encore:1461391177130442914> Encore", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Best Team (Dual DPS)",
+      "members": ["<:encore:1461391177130442914> Encore", "<:changli:1461391171812327545> Changli", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

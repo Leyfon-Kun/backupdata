@@ -1,0 +1,74 @@
+{
+  "name": "Xiangli Yao",
+  "element": "Electro <:eelectro:1460535251666210837>",
+  "rarity": 5,
+  "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_xiangliyao_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Verity's Handle (R1) (117.56%)",
+      "Blazing Justice (R1) (107.21%)",
+      "Tragicomedy (R1) (106.51%)",
+      "Abyss Surges (R1) (100.00%)",
+      "Aether Strike (R5) (98.13%)"
+    ],
+    "echoSet": [
+      "Void Thunder",
+      "Lingering Tunes"
+    ],
+    "mainEcho": [
+      "Nightmare: Thundering Mephis (VT)",
+      "Nightmare: Tempest Mephis (VT)",
+      "Mech Abomination (LT)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Electro DMG%, ATK%)",
+      "Cost 3 (Electro DMG%, ATK%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Liberation DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1100+",
+      "ATK: 1800-2300+",
+      "Crit Rate: 60-80%+",
+      "Crit DMG: 215-280%+",
+      "Energy Regen: 120%+",
+      "Electro DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Forte Circuit",
+      "Res. Skill",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:lynae:1461391087003500666> Lynae, <:yinlin:1461391155794284574> Yinlin", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Expert Team",
+      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:changli:1461391171812327545> Changli", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Budget Team",
+      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:jianxin:1461391126522237015> Jianxin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Budget Expert Team",
+      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:yangyang:1461391134453661844> Yangyang", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

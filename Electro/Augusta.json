@@ -1,0 +1,65 @@
+{
+  "name": "Augusta",
+  "element": "Electro <:eelectro:1460535251666210837>",
+  "rarity": 5,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_aogusita_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Thunderflare Dominion (R1) (100.00%)",
+      "Verdant Summit (R1) (90.30%)",
+      "Ages of Harvest (R1) (80.40%)",
+      "Radiance Cleaver (R1) (77.30%)",
+      "Aureate Zenith (R5) (73.20%)"
+    ],
+    "echoSet": [
+      "Crown of Valor 3P\n**Best combined with**",
+      "Void Thunder 2P (Recomended)",
+      "Lingering Tunes 2P",
+      "Moonlit Clouds 2P",
+      "Empyrean Anthem 2P"
+    ],
+    "mainEcho": [
+      "The False Sovereign (CoV)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Electro DMG%)",
+      "Cost 3 (Electro DMG%, ATK%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Heavy Attack DMG%",
+      "Skill DMG%"
+    ],
+    "endGameStat": [
+      "HP: 14500+",
+      "DEF: 1100+",
+      "ATK: 2000-2800+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 116-125%+",
+      "Electro DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Forte Circuit",
+      "Basic Attack",
+      "Res. Skill",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1 - Best Team",
+      "members": ["<:augusta:1461391145073643648> Augusta", "<:iuno:1461391114442379336> Iuno, <:mortefi:1461391174391697409> Mortefi, <:yinlin:1461391155794284574> Yinlin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

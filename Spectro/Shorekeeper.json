@@ -1,0 +1,76 @@
+{
+  "name": "Shorekeeper",
+  "element": "Spectro <:espectro:1460534963073056951>",
+  "rarity": 5,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shouanren_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Stellar Symphony (R1) (116.30%)",
+     "Variation (R5) (100.00%)",
+     "Rectifier#25 (R5) (87.20%)",
+     "Call of the Abyss (R5) (85.10%)"
+    ],
+    "echoSet": [
+      "Rejuvenating Glow",
+	    "Moonlit Clouds"
+    ],
+    "mainEcho": [
+      "Fallacy of No Return (RG)",
+	    "Bell-Borne Geochelone (RG)",
+	    "Impermanence Heron (MC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit DMG, HP%)",
+      "Cost 3 (Energy Regen)",
+      "Cost 3 (Energy Regen, Spectro DMG)",
+      "Cost 1 (HP%)",
+      "Cost 1 (HP%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit DMG",
+      "Liberation DMG%",
+	    "HP%",
+	    "Crit Rate",
+	    "Flat HP",
+	    "ATK%",
+	    "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 20000-35000+",
+      "DEF: 1100+",
+      "Crit Rate: 20%-40%+",
+      "Crit DMG: 220-280%+",
+      "Energy Regen: 230%",
+      "Spectro DMG Bonus: 0-30%"
+    ],
+    "skillPriority": [
+      "Intro Skill",
+      "Res. Skill",
+      "Basic Attack",
+      "Forte Circuit",
+      "Res. Liberation"
+    ]
+  },
+  "team": [
+    {
+      "name": "Augusta Team",
+      "members": ["<:augusta:1461391145073643648> Augusta", "<:iuno:1461391114442379336> Iuno, <:mortefi:1461391174391697409> Mortefi", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Carlotta Team",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:zhezhi:1461391188719308810> Zhezhi", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Zani Team",
+      "members": ["<:zani:1461391091210125565> Zani", "<:phoebe:1461391099636748380> Phoebe", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Camellya Team",
+      "members": ["<:camellya:1461391079545897040> Camellya", "<:roccia:1461391073569017999> Roccia, <:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+    }
+  ]
+  
+}

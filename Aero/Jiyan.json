@@ -1,0 +1,74 @@
+{
+  "name": "Jiyan",
+  "element": "Aero <:eaero:1460535334088610005>",
+  "rarity": 5,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jiyan_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Verdant Summit (R1) (117.39%)",
+      "Ages of Harvest (R1) (106.97%)",
+      "Wildfire Mark (R1) (103.53%)",
+      "Lustrous Razor (R1) (100.00%)",
+      "Aureate Zenith (R5) (98.76%)"
+    ],
+    "echoSet": [
+      "Sierra Gale",
+      "Lingering Tunes"
+    ],
+    "mainEcho": [
+      "Nightmare: Feilian Beringal (SG)",
+      "Feilian Beringal (SG)",
+      "Mech Abomination (LT)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Aero DMG)",
+      "Cost 3 (Aero DMG, Energy Regen)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Heavy Attack DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1150+",
+      "ATK: 1900-2700+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 215-260%+",
+      "Energy Regen: 115-125%+",
+      "Aero DMG Bonus: 20-80%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Forte Circuit",
+      "Res. Skill",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:jiyan:1461391128808132745> Jiyan", "<:iuno:1461391114442379336> Iuno, <:phrolova:1461391061875425398> Phrolova, <:mortefi:1461391174391697409> Mortefi", "<:shorekeeper:1461391102316777716> Shorekeeper, <:ciaccona:1461391123703402517> Ciaccona, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Erosion team",
+      "members": ["<:jiyan:1461391128808132745> Jiyan", "<:ciaccona:1461391123703402517> Ciaccona", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Phrolova Dual DPS Team",
+      "members": ["<:jiyan:1461391128808132745> Jiyan", "<:phrolova:1461391061875425398> Phrolova", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Aalto Team",
+      "members": ["<:jiyan:1461391128808132745> Jiyan", "<:alto:1461391131924369439> Aalto", "<:verina:1461391108100587747> Verina, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    }
+  ]
+}

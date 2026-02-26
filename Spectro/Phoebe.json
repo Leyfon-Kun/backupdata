@@ -1,0 +1,77 @@
+{
+  "name": "Phoebe",
+  "element": "Spectro <:espectro:1460534963073056951>",
+  "rarity": 5,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["DPS", "SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Feibi_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Luminous Hymn (R1) (119.26%)",
+     "Stringmaster (R1) (111.45%)",
+     "Whispers of Sirens (R1) (110.34%)",
+     "Augment (R1) (100.63%)",
+     "Cosmic Ripples (R1) (100.00%)"
+    ],
+    "echoSet": [
+      "Eternal Radiance"
+    ],
+    "mainEcho": [
+      "Nightmare: Mourning Aix (ER)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+	    "ATK%",
+	    "Flat ATK",
+	    "Heavy Attack DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1100+",
+      "ATK: 1900-2200+",
+      "Crit Rate: 60-80%",
+      "Crit DMG: 215-260%+",
+      "Energy Regen: 115%-125%+",
+      "Spectro DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Res. Skill",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team (Absolution)",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:lynae:1461391087003500666> Lynae, <:phrolova:1461391061875425398> Phrolova", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Alternative Team (Absolution)",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:iuno:1461391114442379336> Iuno, <:mortefi:1461391174391697409> Mortefi, <:ciaccona:1461391123703402517> Ciaccona, <:sanhua:1461391196957184042> Sanhua", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Best Team (Confession)",
+      "members": ["<:zani:1461391091210125565> Zani", "<:phoebe:1461391099636748380> Phoebe", "<:shorekeeper:1461391102316777716> Shorekeeper, <:rover:1461391121132425542> Rover, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Changli Quickswap (Absolution)",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:changli:1461391171812327545> Changli", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Triple Spectro Team (Absolution)",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:rover:1461391121132425542> Rover", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

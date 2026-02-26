@@ -1,0 +1,81 @@
+{
+  "name": "Galbrena",
+  "element": "Fusion <:efusion:1460535176055488647>",
+  "rarity": 5,
+  "weapon": "Pistols <:wpistols:1460535467060494376>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Jiabeilina_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Lux & Umbra (R1) (100.00%)",
+      "Phasic Homogenizer (R1) (91.80%)",
+      "The Last Dance (R1) (84.30%)",
+      "Spectrum Blaster (R1) (84.20%)",
+      "Solar Flame (R5) (77.00%)"
+    ],
+    "echoSet": [
+      "Flamewing's Shadow 3P\n**Best combined with**",
+      "Molten Rift 2P (Recomended)",
+      "Flaming Clawprint 2P (Recomended)",
+      "Lingering Tunes 2P",
+      "Moonlit Clouds 2P",
+      "Empyrean Anthem 2P"
+    ],
+    "mainEcho": [
+      "Corrosaurus (FS)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Fusion DMG%, ATK%)",
+      "Cost 3 (Fusion DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Heavy Attack DMG%"
+    ],
+    "endGameStat": [
+      "HP: 14500+",
+      "DEF: 1100+",
+      "ATK: 1900-2100+",
+      "Crit Rate: 60-80%+",
+      "Crit DMG: 230-270%+",
+      "Energy Regen: 110-125%+",
+      "Fusion DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Basic Attack",
+      "Res. Skill",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye"]
+    },
+    {
+      "name": "Team #2: With Qiuyuan",
+      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:qiuyuan:1461391111666012160> Qiuyuan", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Team #3: Mono Fusion Alternatives",
+      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:brant:1461391168834109520> Brant, <:mortefi:1461391174391697409> Mortefi", "<:lupa:1461391166057611558> Lupa"]
+    },
+    {
+      "name": "Team #4: Alt Premium Teams",
+      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:phrolova:1461391061875425398> Phrolova, <:iuno:1461391114442379336> Iuno", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Team #5: F2P Team",
+      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:mortefi:1461391174391697409> Mortefi", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

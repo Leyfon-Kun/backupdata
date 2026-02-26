@@ -1,0 +1,66 @@
+{
+  "name": "Mornye",
+  "element": "Fusion <:efusion:1460535176055488647>",
+  "rarity": 5,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Moning_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Starfield Calibrator (R1)",
+      "Discord (R5)",
+      "Broadblade#41 (R5)",
+      "Dauntless Evernight (R5)"
+    ],
+    "echoSet": [
+      "Halo of Starry Radiance",
+      "Rejuvenating Glow"
+    ],
+    "mainEcho": [
+      "Reactor Husk (HoSR)",
+      "Fallacy of No Return (RG)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (DEF%, Healing Bonus)",
+      "Cost 3 (Energy Regen)",
+      "Cost 3 (Energy Regen, Fusion DMG%)",
+      "Cost 1 (DEF%)",
+      "Cost 1 (DEF%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Liberation DMG%",
+      "CRIT DMG",
+      "DEF%",
+      "ATK%"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 3000+",
+      "ATK: 1000+",
+      "CRIT Rate: 20%+",
+      "CRIT DMG: 220%+",
+      "Energy Regen: 240%+",
+      "Fusion DMG Bonus: 0-30%+"
+    ],
+    "skillPriority": [
+      "**Damage Focus | Heal Focus**",
+      "Res. Liberation | Res. Liberation",
+      "Forte Circuit | Forte Circuit",
+      "Basic Attack | Res. Skill",
+      "Intro Skill | Basic Attack",
+      "Res. Skill | Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Lynae + Mornye",
+      "members": ["<:iuno:1461391114442379336> Iuno, <:xiangliyao:1461391147287974031> Xiangli Yao, <:galbrena:1461391163813527663> Galbrena, <:phrolova:1461391061875425398> Phrolova", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye"]
+    },
+    {
+      "name": "Mono Fusion",
+      "members": ["<:galbrena:1461391163813527663> Galbrena, <:brant:1461391168834109520> Brant, <:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye"]
+    }
+  ]
+  
+}

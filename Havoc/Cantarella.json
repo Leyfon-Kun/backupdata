@@ -1,0 +1,71 @@
+{
+  "name": "Cantarella",
+  "element": "Havoc <:ehavoc:1460535003791364169>",
+  "rarity": 5,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kanteleila_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Whispers of Sirens (R1) (100.00%)",
+     "Rime-Draped Sprouts (R1) (87.00%)",
+     "Stringmaster (R1) (85.00%)",
+     "Cosmic Ripples (R1) (82.50%)",
+     "Augment (R5) (77.80%)"
+    ],
+    "echoSet": [
+      "Midnight Veil",
+	    "Moonlit Clouds"
+    ],
+    "mainEcho": [
+      "Lorelei (MV)",
+	    "Impermanence Heron (MC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Havoc DMG)",
+      "Cost 3 (Havoc DMG, Energy Regen, ATK%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+	    "ATK%",
+	    "Flat ATK",
+	    "Basic DMG%"
+    ],
+    "endGameStat": [
+      "HP: 16000+",
+      "DEF: 1100+",
+      "ATK: 1950-2400+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 210-280%+",
+      "Energy Regen: 120-140%",
+      "Havoc DMG Bonus: 30-70%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Skill",
+      "Res. Liberation",
+      "Basic Attack",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:cantarella:1461391064026845317> Cantarella", "<:qiuyuan:1461391111666012160> Qiuyuan, <:roccia:1461391073569017999> Roccia, <:danjin:1461391082280456257> Danjin, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Team #2: Alternative Phrolova Teams",
+      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:cantarella:1461391064026845317> Cantarella", "<:danjin:1461391082280456257> Danjin, <:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Team #3: Skill Damage Teams",
+      "members": ["<:carlotta:1461391183346532353> Carlotta, <:jinshi:1461391150530301994> Jinshi", "<:cantarella:1461391064026845317> Cantarella", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

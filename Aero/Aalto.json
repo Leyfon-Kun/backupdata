@@ -1,0 +1,73 @@
+{
+  "name": "Aalto",
+  "element": "Aero <:eaero:1460535334088610005>",
+  "rarity": 4,
+  "weapon": "Pistols <:wpistols:1460535467060494376>",
+  "role": ["DPS", "SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_qiushui_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "The Last Dance (R1) (102.60%)",
+      "Woodland Aria (R1) (101.00%)",
+      "Static Mist (R1) (100.00%)",
+      "Relativistic Jet (R5) (85.50%)",
+      "Undying Flame (R5) (80.40%)"
+    ],
+    "echoSet": [
+      "Sierra Gale",
+      "Windward Pilgrimage",
+      "Moonlit Clouds"
+    ],
+    "mainEcho": [
+      "Nightmare: Feilian Beringal (SG)",
+      "Nightmare: Kelpie (WP)",
+      "Impermanence Heron (MC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Aero DMG)",
+      "Cost 3 (Aero DMG, Energy Regen)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Basic Attack DMG%",
+      "Resonance Skill DMG%"
+    ],
+    "endGameStat": [
+      "HP: 14000+",
+      "DEF: 1000+",
+      "ATK: 1600-2100+",
+      "Crit Rate: 60-75%+",
+      "Crit DMG: 215-280%+",
+      "Energy Regen: 145-160%+",
+      "Aero DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Basic Attack",
+      "Forte Circuit",
+      "Intro Skill",
+      "Res. Skill"
+    ],
+    "team": [
+      {
+        "name": "Best Team (DPS)",
+        "members": ["<:alto:1461391131924369439> Aalto", "<:ciaccona:1461391123703402517> Ciaccona", "<:rover:1461391121132425542> Rover"]
+      },
+      {
+        "name": "Best Team (Hybrid)",
+        "members": ["<:jiyan:1461391128808132745> Jiyan, <:iuno:1461391114442379336> Iuno", "<:alto:1461391131924369439> Aalto", "Shorekeeper, <:verina:1461391108100587747> Verina, <:rover:1461391121132425542> Rover"]
+      },
+      {
+        "name": "F2P Team (DPS)",
+        "members": ["<:alto:1461391131924369439> Aalto", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina, <:rover:1461391121132425542> Rover"]
+      }
+    ]
+  }
+  
+}

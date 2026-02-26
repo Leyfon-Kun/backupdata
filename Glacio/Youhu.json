@@ -1,0 +1,68 @@
+{
+  "name": "Youhu",
+  "element": "Glacio <:eglacio:1460535039296012524>",
+  "rarity": 4,
+  "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",  
+  "role": ["SubDPS", "Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_youhu_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Marcato (R5)",
+     "Gauntlets#21D (R5)",
+     "Abyss Surges (R1)",
+     "Celestial Spiral (R5)"
+    ],
+    "echoSet": [
+      "Rejuvenating Glow",
+	    "Moonlit Clouds"
+    ],
+    "mainEcho": [
+      "Fallacy of No Return (RG)",
+	    "Bell-Borne Geochelone (RG)",
+	    "Impermanence Heron (MC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Healing Bonus)",
+	    "Cost 3 (Energy Regen, ATK%)",
+	    "Cost 3 (Energy Regen, ATK%)",
+	    "Cost 1 (ATK%)",
+	    "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+	    "ATK%",
+	    "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+	    "DEF: 1050+",
+	    "ATK: 1300+",
+	    "Crit Rate: 60%-80%+",
+	    "Crit DMG: 210-260%+",
+	    "Energy Regen: 100%",
+	    "Glacio DMG Bonus: 0-60%+"
+    ],
+    "skillPriority": [
+      "Res. Skill",
+      "Forte Circuit",
+      "Res. Liberation",
+      "Basic Attack",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:calcharo:1461391158482567381> Calcharo", "<:yinlin:1461391155794284574> Yinlin", "<:youhu:1461391185863250107> Youhu"]
+    },
+    {
+      "name": "Zhezhi Team",
+      "members": ["<:lingyang:1461391191353593946> Lingyang", "<:zhezhi:1461391188719308810> Zhezhi", "<:youhu:1461391185863250107> Youhu"]
+    },
+    {
+      "name": "Mortefi Team",
+      "members": ["<:jiyan:1461391128808132745> Jiyan", "<:mortefi:1461391174391697409> Mortefi", "<:youhu:1461391185863250107> Youhu"]
+    }
+  ]
+  
+}

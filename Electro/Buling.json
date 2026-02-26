@@ -1,0 +1,64 @@
+{
+  "name": "Buling",
+  "element": "Electro <:eelectro:1460535251666210837>",
+  "rarity": 4,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Buling_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Stringmaster (R1)",
+      "Lethean Eledgy (R1)",
+      "Rime-Draped Sprouts (R1)",
+      "Cosmic Ripples (R1)",
+      "Waltz in Masquerade (R5)"
+    ],
+    "echoSet": [
+      "Rejuvenating Glow"
+    ],
+    "mainEcho": [
+      "Fallacy of No Return (RG)",
+      "Bell-Borne Geochelone (RG)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Electro DMG%, Energy Regen)",
+      "Cost 3 (Electro DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1150+",
+      "ATK: 1500-2000+",
+      "Crit Rate: 60-80%+",
+      "Crit DMG: 215-280%+",
+      "Energy Regen: 125-180%+",
+      "Electro DMG Bonus: 0-60%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Basic Attack",
+      "Res. Skill",
+      "Intro Skill",
+      "Res. Liberation"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:zhezhi:1461391188719308810> Zhezi, <:brant:1461391168834109520> Brant, <:cantarella:1461391064026845317> Cantarella", "<:buling:1461391142892339312> Buling"]
+    },
+    {
+      "name": "Team #2: F2P Team",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:taoqi:1461391084629266566> Taoqi, <:yangyang:1461391134453661844> Yangyang", "<:buling:1461391142892339312> Buling"]
+    }
+  ]
+  
+}

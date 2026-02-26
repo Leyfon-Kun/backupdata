@@ -1,0 +1,70 @@
+{
+  "name": "Zani",
+  "element": "Spectro <:espectro:1460534963073056951>",
+  "rarity": 5,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zanni_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Blazing Justice (R1) (100.00%)",
+     "Tragicomedy (R1) (93.70%)",
+     "Verity's Handle (R1) (85.00%)",
+     "Pulsation Bracer (R1) (82.40%)",
+     "Celestial Spiral (R1) (69.30%)"
+    ],
+    "echoSet": [
+      "Eternal Radiance"
+    ],
+    "mainEcho": [
+      "Capitaneus (ER)",
+	    "Nightmare: Mourning Aix (ER)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+	    "ATK%",
+	    "Heavy Attack DMG%",
+	    "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1100+",
+      "ATK: 1800-2300+",
+      "Crit Rate: 65%+",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 115%+",
+      "Spectro DMG Bonus: 50-80%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Res. Skill",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:zani:1461391091210125565> Zani", "<:phoebe:1461391099636748380> Phoebe", "<:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Team #2: Premium Alternatives",
+      "members": ["<:zani:1461391091210125565> Zani", "<:ciaccona:1461391123703402517> Ciaccona, <:iuno:1461391114442379336> Iuno, <:phrolova:1461391061875425398> Phrolova", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Team #3: F2P Team",
+      "members": ["<:zani:1461391091210125565> Zani", "<:mortefi:1461391174391697409> Mortefi", "<:rover:1461391121132425542> Rover"]
+    }
+  ]
+  
+}

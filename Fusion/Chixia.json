@@ -1,0 +1,68 @@
+{
+  "name": "Chixia",
+  "element": "Fusion <:efusion:1460535176055488647>",
+  "rarity": 4,
+  "weapon": "Pistols <:wpistols:1460535467060494376>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_maxiaofang_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "The Last Dance (R1) (108.35%)",
+      "Static Mist (R1) (100.00%)",
+      "Thunderbolt (R5) (84.49%)",
+      "Relativistic Jet (R5) (82.43%)",
+      "Novaburst (R5) (81.92%)"
+    ],
+    "echoSet": [
+      "Molten Rift"
+    ],
+    "mainEcho": [
+      "Nightmare: Inferno Rider (MR)",
+      "Inferno Rider (MR)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Fusion DMG%)",
+      "Cost 3 (Fusion DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ],
+    "endGameStat": [
+      "HP: 14500+",
+      "DEF: 950+",
+      "ATK: 1900-2100+",
+      "Crit Rate: 55-80%+",
+      "Crit DMG: 210-280%+",
+      "Energy Regen: 115%+",
+      "Fusion DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Basic Attack",
+      "Res. Skill",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:chixia:1461391179911532709> Chixia", "<:brant:1461391168834109520> Brant, <:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa"]
+    },
+    {
+      "name": "Brant Dual DPS Team",
+      "members": ["<:brant:1461391168834109520> Brant", "<:chixia:1461391179911532709> Chixia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Changli Team",
+      "members": ["<:changli:1461391171812327545> Changli", "<:chixia:1461391179911532709> Chixia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

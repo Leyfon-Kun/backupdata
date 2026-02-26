@@ -1,0 +1,71 @@
+{
+  "name": "Roccia",
+  "element": "Havoc <:ehavoc:1460535003791364169>",
+  "rarity": 5,
+  "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
+  "role": ["SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_luokeke_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Tragicomedy (R1) (116.72%)",
+     "Blazing Justice (R1) (105.51%)",
+     "Verity's Handle (R1) (104.91%)",
+     "Abyss Surges (R1) (100.00%)",
+     "Celestial Spiral (R5) (86.60%)"
+    ],
+    "echoSet": [
+      "Midnight Veil",
+	    "Moonlit Clouds"
+    ],
+    "mainEcho": [
+      "Nightmare: Impermanence Heron (MV)",
+	    "Impermanence Heron (MC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Havoc DMG)",
+      "Cost 3 (Havoc DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+	    "ATK%",
+	    "Heavy Attack DMG%",
+	    "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 16500+",
+      "DEF: 1150+",
+      "ATK: 1800-2400+",
+      "Crit Rate: 70-80%+",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 115-125%+",
+      "Havoc DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Res. Skill",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Camellya Team",
+      "members": ["<:camellya:1461391079545897040> Camellya", "<:roccia:1461391073569017999> Roccia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Havoc Rover Team",
+      "members": ["<:rover:1461391121132425542> Rover", "<:roccia:1461391073569017999> Roccia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Danjin Team",
+      "members": ["<:danjin:1461391082280456257> Danjin", "<:roccia:1461391073569017999> Roccia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

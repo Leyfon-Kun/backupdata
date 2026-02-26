@@ -1,0 +1,60 @@
+{
+  "name": "Baizhi",
+  "element": "Glacio <:eglacio:1460535039296012524>",
+  "rarity": 4,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_bailian_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Stellar Symphony (R1)",
+	   "Variation (R5)",
+	   "Call of the Abyss (R5)",
+	   "Rectifier of Voyager (R5)",
+	   "Rectifier#25 (R5)"
+    ],
+    "echoSet": [
+      "Rejuvenating Glow",
+	    "Moonlit Clouds"
+    ],
+    "mainEcho": [
+      "Fallacy of No Return (RG)",
+	    "Bell-Borne Geochelone (RG)",
+	    "Impermanence Heron (MC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Healing Bonus, HP%)",
+	    "Cost 3 (Energy Regen)",
+	    "Cost 3 (Energy Regen)",
+	    "Cost 1 (HP%)",
+	    "Cost 1 (HP%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+	    "HP%",
+	    "Flat HP"
+    ],
+    "endGameStat": [
+      "HP: 20000-35000+",
+	    "DEF: 1100+",
+	    "Crit Rate: 60%+",
+	    "Crit DMG: 210%+",
+	    "Energy Regen: 220%-230%",
+	    "Glacio DMG Bonus: 0-30%"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+	    "Res. Skill",
+	    "Forte Circuit",
+	    "Intro Skill",
+	    "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": " Example Teams",
+      "members": ["**Baizhi** is very flexible and can be used in any team in the Support slot."]
+    }
+  ]
+  
+}

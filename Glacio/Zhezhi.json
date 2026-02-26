@@ -1,0 +1,75 @@
+{
+  "name": "Zhezhi",
+  "element": "Glacio <:eglacio:1460535039296012524>",
+  "rarity": 5,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_zhezhi_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Rime-Draped Sprouts (R1) (120.15%)",
+     "Stringmaster (R1) (116.08%)",
+     "Whispers of Sirens (R1) (108.16%)",
+     "Cosmic Ripples (R1) (100.00%)",
+     "Fusion Accretion (R5) (86.45%)"
+    ],
+    "echoSet": [
+      "Moonlit Clouds",
+      "Empyrean Anthem"
+    ],
+    "mainEcho": [
+      "Impermanence Heron (MC)",
+      "Hecate (EA)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Glacio DMG)",
+      "Cost 3 (Glacio DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+	    "Crit Rate",
+	    "Crit DMG",
+	    "Basic DMG%",
+	    "ATK%",
+      "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1100+",
+      "ATK: 1900-2400+",
+      "Crit Rate: 65%-80%+",
+      "Crit DMG: 215-260%+",
+      "Energy Regen 116%-128%+",
+      "Glacio DMG Bonus: 30-70%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Forte Circuit",
+      "Intro Skill",
+      "Res. Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Glacio DPS Team",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:zhezhi:1461391188719308810> Zhezhi", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Resonance Skill DPS Team",
+      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:zhezhi:1461391188719308810> Zhezhi", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Zhezhi Main DPS Team",
+      "members": ["<:zhezhi:1461391188719308810> Zhezhi", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Free To Play Team",
+      "members": ["<:zhezhi:1461391188719308810> Zhezhi", "<:sanhua:1461391196957184042> Sanhua", "<:baizhi:1461391194176356385> Baizhi"]
+    }
+  ]
+  
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Calcharo",
+  "element": "Electro <:eelectro:1460535251666210837>",
+  "rarity": 5,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kakaluo_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Wildfire Mark (R1) (100.72%)",
+      "Lustrous Razor (R1) (100.00%)",
+      "Ages of Harvest (R1) (98.37%)",
+      "Verdant Summit (R1) (96.69%)",
+      "Autumntrace (R5) (94.25%)"
+    ],
+    "echoSet": [
+      "Void Thunder",
+      "Lingering Tunes"
+    ],
+    "mainEcho": [
+      "Nightmare: Thundering Mephis (VT)",
+      "Nightmare: Tempest Mephis (VT)",
+      "Mech Abomination (LT)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Electro DMG%)",
+      "Cost 3 (Electro DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Liberation DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1150+",
+      "ATK: 1800-2300+",
+      "Crit Rate: 60-80%+",
+      "Crit DMG: 215-280%+",
+      "Energy Regen: 120-160%+",
+      "Electro DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Res. Skill",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:calcharo:1461391158482567381> Calcharo", "<:lynae:1461391087003500666> Lynae, <:yinlin:1461391155794284574> Yinlin", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Budget Team",
+      "members": ["<:calcharo:1461391158482567381> Calcharo", "<:jianxin:1461391126522237015> Jianxin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

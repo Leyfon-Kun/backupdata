@@ -1,0 +1,73 @@
+{
+  "name": "Lynae",
+  "element": "Spectro <:espectro:1460534963073056951>",
+  "rarity": 5,
+  "weapon": "Pistols <:wpistols:1460535467060494376>",
+  "role": ["SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Linnai_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Spectrum Blaster (R1) (100.00%)",
+     "Phasic Homogenizer (R1) (91.20%)",
+     "The Last Dance (R1) (85.00%)",
+     "Solar Flame (R1) (70.30%)",
+     "Relativistic Jet (R5) (68.80%)"
+    ],
+    "echoSet": [
+      "Pact of Neonlight Leap"
+    ],
+    "mainEcho": [
+      "Hyvatia (PoNL)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Spectro DMG, ATK%)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Flat ATK",
+      "Basic DMG%"
+    ],
+    "endGameStat": [
+      "HP: 12000+",
+      "DEF: 1150+",
+      "ATK: 2000-2200+",
+      "Crit Rate: 50-80%+",
+      "Crit DMG: 250-280%+",
+      "Energy Regen: 115-130%+",
+      "Spectro DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Basic Attack",
+      "Res. Skill",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:iuno:1461391114442379336> Iuno", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye, <:ciaccona:1461391123703402517> Ciaccona, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Alternative Liberation Teams",
+      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao, <:calcharo:1461391158482567381> Calcharo", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Other Alternative Teams",
+      "members": ["<:carlotta:1461391183346532353> Carlotta, <:camellya:1461391079545897040> Camellya", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Phoebe Team",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:lynae:1461391087003500666> Lynae", "<:rover:1461391121132425542> Rover"]
+    }
+  ]
+  
+}

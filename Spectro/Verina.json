@@ -1,0 +1,61 @@
+{
+  "name": "Verina",
+  "element": "Spectro <:espectro:1460534963073056951>",
+  "rarity": 5,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jueyuan_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Variation (R5)",
+     "Stellar Symphony (R1)",
+     "Call of the Abyss (R5)",
+     "Rectifier#25 (R5)",
+     "Rectifier of Voyager (R5)"
+    ],
+    "echoSet": [
+      "Rejuvenating Glow",
+	    "Moonlit Clouds"
+    ],
+    "mainEcho": [
+      "Fallacy of No Return (RG)",
+	    "Bell-Borne Geochelone (RG)",
+	    "Impermanence Heron (MC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Healing Bonus, ATK%)",
+      "Cost 3 (Energy Regen)",
+      "Cost 3 (Energy Regen)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "ATK%",
+      "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 18000+",
+      "DEF: 1100+",
+      "ATK: 1500+",
+      "Crit Rate: 60%+",
+      "Crit DMG: 210%+",
+      "Energy Regen: 220%-230%",
+      "Spectro DMG Bonus: 0-30%"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Res. Skill",
+      "Basic Attack",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Example Teams",
+      "members": ["**Verina** is very flexible and can be used in any team in the Support slot."]
+    }
+  ]
+  
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Rover",
+  "element": "Havoc <:ehavoc:1460535003791364169>",
+  "rarity": 5,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["DPS"],
+  "image": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+  "build": {
+    "bestWeapons": [
+     "Red Spring (R1) (104.84%)",
+     "Blazing Brilliance (R1) (104.15%)",
+     "Emerald of Genesis (R1) (100.00%)",
+     "Somnoire Anchor (R1) (91.24%)",
+     "Commando of Conviction (R1) (85.25%)"
+    ],
+    "echoSet": [
+      "Havoc Eclipse"
+    ],
+    "mainEcho": [
+      "Dreamless (HE)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Havoc DMG%)",
+      "Cost 3 (Havoc DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+	    "ATK%",
+	    "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1250+",
+      "ATK: 1800-2200+",
+      "Crit Rate: 60-75%+ (Before S6 buff)",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 140%+",
+      "Havoc DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "**Quick Swap | Hyper Carry**",
+      "Res. Liberation **|** Forte Circuit",
+      "Forte Circuit **|** Res. Liberation",
+      "Res. Skill **|** Res. Skill",
+      "Intro Skill **|** Intro Skill",
+	    "Basic Attack **|** Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:rover:1461391121132425542> Rover", "<:roccia:1461391073569017999> Roccia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Phrolova Team",
+      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:rover:1461391121132425542> Rover", "<:danjin:1461391082280456257> Danjin, <:cantarella:1461391064026845317> Cantarella"]
+    },
+    {
+      "name": "F2P Team",
+      "members": ["<:rover:1461391121132425542> Rover", "<:danjin:1461391082280456257> Danjin, <:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Cantarella Alternative",
+      "members": ["<:rover:1461391121132425542> Rover", "<:cantarella:1461391064026845317> Cantarella", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Changli",
+  "element": "Fusion <:efusion:1460535176055488647>",
+  "rarity": 5,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_changli_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Blazing Brilliance (R1) (110.27%)",
+      "Emerald of Genesis (R1) (100.00%)",
+      "Red Spring (R1) (98.14%)",
+      "Commando of Conviction (R5) (85.12%)",
+      "Endless Collapse (R5) (82.46%)"
+    ],
+    "echoSet": [
+      "Molten Rift"
+    ],
+    "mainEcho": [
+      "Nightmare: Inferno Rider (MR)",
+      "Inferno Rider (MR)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Fusion DMG%)",
+      "Cost 3 (Fusion DMG%, ATK%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Skill DMG%"
+    ],
+    "endGameStat": [
+      "HP: 16500+",
+      "DEF: 1150+",
+      "ATK: 2000-2200+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 108-120%+",
+      "Fusion DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Res. Skill",
+      "Forte Circuit",
+      "Res. Liberation",
+      "Basic Attack",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:changli:1461391171812327545> Changli", "<:brant:1461391168834109520> Brant, <:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa"]
+    },
+    {
+      "name": "Brant Dual DPS Team",
+      "members": ["<:changli:1461391171812327545> Changli", "<:brant:1461391168834109520> Brant", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Expert Team",
+      "members": ["<:changli:1461391171812327545> Changli", "<:jinshi:1461391150530301994> Jinshi, <:xiangliyao:1461391147287974031> Xiangli Yao, <:cartethyia:1461391117713932431> Cartethyia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Dual Fusion Team",
+      "members": ["<:changli:1461391171812327545> Changli", "<:encore:1461391177130442914> Encore, <:chixia:1461391179911532709> Chixia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Budget Dual DPS Team",
+      "members": ["<:changli:1461391171812327545> Changli", "<:yangyang:1461391134453661844> Yangyang", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

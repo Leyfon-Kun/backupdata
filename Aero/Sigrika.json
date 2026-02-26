@@ -1,0 +1,41 @@
+{
+  "name": "Sigrika",
+  "element": "Aero <:eaero:1460535334088610005>",
+  "rarity": 5,
+  "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
+  "role": ["They will be added soon!"],
+  "image": "https://www.prydwen.gg/static/e9198e709bd9118c490f073dd0f1201a/b26e2/44_card.webp",
+  "build": {
+    "bestWeapons": [
+     "They will be added soon!"
+    ],
+    "echoSet": [
+      "They will be added soon!"
+    ],
+    "mainEcho": [
+      "They will be added soon!"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (They will be added soon!)",
+      "Cost 3 (They will be added soon!)",
+      "Cost 3 (They will be added soon!)",
+      "Cost 1 (They will be added soon!)",
+      "Cost 1 (They will be added soon!)"
+    ],
+    "subStats": [
+      "They will be added soon!"
+    ],
+    "endGameStat": [
+      "They will be added soon!"
+    ],
+    "skillPriority": [
+      "They will be added soon!"
+    ]
+  },
+  "team": [
+    {
+      "name": "They will be added soon!",
+      "members": ["They will be added soon!"]
+    }
+  ]
+}

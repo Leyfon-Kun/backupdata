@@ -1,0 +1,81 @@
+{
+  "name": "Rover",
+  "element": "Spectro <:espectro:1460534963073056951>",
+  "rarity": 5,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["Support", "SubDPS"],
+  "image": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+  "build": {
+    "bestWeapons": [
+     "Blazing Brilliance (R1) (107.85%)",
+     "Emerald of Genesis (R1) (100.00%)",
+     "Lunar Cutter (R1) (86.05%)",
+     "Endless Collapse (R1) (85.72%)",
+     "Commando of Conviction (R1) (85.47%)"
+    ],
+    "echoSet": [
+      "Moonlit Clouds",
+      "Rejuvenating Glow",
+      "Eternal Radiance"
+    ],
+    "mainEcho": [
+      "Impermanence Heron (MC)",
+	    "Fallacy of No Return (RG)",
+	    "Bell-Borne Geochelone (RG)",
+	    "Nightmare: Mourning Aix (ER)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+	    "Flat ATK",
+	    "Liberation DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15500+",
+      "DEF: 1350+",
+      "ATK: 1800-2200+",
+      "Crit Rate: 60-75%+",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 120%-123%+",
+      "Spectro DMG Bonus: 40-80%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Forte Circuit",
+      "Basic Attack",
+      "Res. Skill",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Phoebe Triple Spectro Team",
+      "members": ["<:zani:1461391091210125565> Zani", "<:phoebe:1461391099636748380> Phoebe", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Quickswap Phoebe Team",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:iuno:1461391114442379336> Iuno, <:phrolova:1461391061875425398> Phrolova, <:ciaccona:1461391123703402517> Ciaccona", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "F2P Phoebe Team",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:mortefi:1461391174391697409> Mortefi, <:sanhua:1461391196957184042> Sanhua", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Quickswap Phoebe Team",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:changli:1461391171812327545> Changli", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Phoebe Triple Spectro Team",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:rover:1461391121132425542> Rover", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

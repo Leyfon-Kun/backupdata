@@ -1,0 +1,72 @@
+{
+  "name": "Lupa",
+  "element": "Fusion <:efusion:1460535176055488647>",
+  "rarity": 5,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["SubDPS", "Support"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_lupa_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Wildfire Mark (R1) (100.00%)",
+      "Ages of Harvest (R1) (87.80%)",
+      "Kumokiri (R1) (87.00%)",
+      "Radiance Cleaver (R1) (84.40%)",
+      "Waning Redshift (R5) (75.00%)"
+    ],
+    "echoSet": [
+      "Flaming Clawprint"
+    ],
+    "mainEcho": [
+      "Lioness of Glory (FC)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Fusion DMG%, ATK%)",
+      "Cost 3 (Fusion DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Liberation DMG%"
+    ],
+    "endGameStat": [
+      "HP: 16000+",
+      "DEF: 1100+",
+      "ATK: 1800-2500+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 215-260%+",
+      "Energy Regen: 115-130%+",
+      "Fusion DMG Bonus: 50-80%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Intro Skill",
+      "Forte Circuit",
+      "Basic Attack",
+      "Res. Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:galbrena:1461391163813527663> Galbrena, <:brant:1461391168834109520> Brant, <:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye"]
+    },
+    {
+      "name": "Team #2: Classic Mono Fusion",
+      "members": ["<:galbrena:1461391163813527663> Galbrena, <:changli:1461391171812327545> Changli, <:encore:1461391177130442914> Encore", "<:brant:1461391168834109520> Brant", "<:lupa:1461391166057611558> Lupa"]
+    },
+    {
+      "name": "Team #3: Chixia Best Team",
+      "members": ["<:chixia:1461391179911532709>", "<:brant:1461391168834109520> Brant", "<:lupa:1461391166057611558> Lupa"]
+    },
+    {
+      "name": "Team #4: Encore F2P Team",
+      "members": ["<:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa", "<:shorekeeper:1461391102316777716> Shorekeeper, <:chixia:1461391179911532709> Chixia"]
+    }
+  ]
+  
+}

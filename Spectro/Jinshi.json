@@ -1,0 +1,73 @@
+{
+  "name": "Jinshi",
+  "element": "Spectro <:espectro:1460534963073056951>",
+  "rarity": 5,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_jinxi_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Ages of Harvest (R1) (118.13%)",
+     "Wildfire Mark (R1) (102.93%)",
+     "Verdant Summit (R1) (101.34%)",
+     "Lustrous Razor (R1) (100.00%)",
+     "Broadblade#41 (R5) (85.86%)"
+    ],
+    "echoSet": [
+      "Celestial Light"
+    ],
+    "mainEcho": [
+      "Jué (CL)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Spectro DMG, ATK%)",
+      "Cost 3 (Spectro DMG, ATK%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Resonance Skill DMG%",
+      "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1250+",
+      "ATK: 2000-2400+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 210-280%+",
+      "Energy Regen: 100-125%+",
+      "Spectro DMG Bonus: 60-90%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Res. Skill",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:zhezhi:1461391188719308810> Zhezhi", "<:verina:1461391108100587747> Verina, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Alternative Team",
+      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:yinlin:1461391155794284574> Yinlin, <:cantarella:1461391064026845317> Cantarella, <:brant:1461391168834109520> Brant", "<:verina:1461391108100587747> Verina, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Expert Team",
+      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:changli:1461391171812327545> Changli", "<:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Budget Team",
+      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:yuanwu:1461391153327898674> Yuanwu", "<:verina:1461391108100587747> Verina, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    }
+  ]
+  
+}

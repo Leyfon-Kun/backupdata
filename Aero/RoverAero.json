@@ -1,0 +1,67 @@
+{
+  "name": "Rover",
+  "element": "Aero <:eaero:1460535334088610005>",
+  "rarity": 5,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["Support"],
+  "image": "https://www.prydwen.gg/static/ec3edb26e6df7f128ff8f9d1226c9a76/b26e2/rover_card.webp",
+  "build": {
+    "bestWeapons": [
+      "Bloodpact's Pledge (R5) (121.12%)",
+      "Bloodpact's Pledge (R1) (100.00%)"
+    ],
+    "echoSet": [
+      "Rejuvenating Glow",
+      "Windward Pilgrimage"
+    ],
+    "mainEcho": [
+      "Bell-Borne Geochelone (RG)",
+      "Reminiscence: Fleurdelys (WP)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Aero DMG%)",
+      "Cost 3 (Aero DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Skill DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1150+",
+      "ATK: 2100+",
+      "Crit Rate: 65%+",
+      "Crit DMG: 210%+",
+      "Energy Regen: 128-138%+",
+      "Aero DMG Bonus: 30-60%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Res. Skill",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:cartethyia:1461391117713932431> Cartethyia", "<:ciaccona:1461391123703402517> Ciaccona, <:changli:1461391171812327545> Changli, <:sanhua:1461391196957184042> Sanhua", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Main DPS Iuno Team",
+      "members": ["<:iuno:1461391114442379336> Iuno", "<:ciaccona:1461391123703402517> Ciaccona, <:jianxin:1461391126522237015> Jianxin", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Jiyan Team",
+      "members": ["<:jiyan:1461391128808132745> Jiyan", "<:mortefi:1461391174391697409> Mortefi, <:ciaccona:1461391123703402517> Ciaccona", "<:rover:1461391121132425542> Rover"]
+    }
+  ]
+  
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Cartethyia",
+  "element": "Aero <:eaero:1460535334088610005>",
+  "rarity": 5,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_katixiya_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Defier's Thorn (R1) (100.00%)",
+      "Red Spring (R1) (79.50%)",
+      "Feather Edge (R5) (76.30%)",
+      "Blazing Brilliance (R1) (77.00%)",
+      "Emerald of Genesis (R1) (75.70%)"
+    ],
+    "echoSet": [
+      "Windward Pilgrimage"
+    ],
+    "mainEcho": [
+      "Reminiscence: Fleurdelys (WP)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit DMG)",
+      "Cost 4 (Crit Rate)",
+      "Cost 1 (HP%)",
+      "Cost 1 (HP%)",
+      "Cost 1 (HP%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "HP%",
+      "Energy Regen",
+      "Basic Attack DMG%",
+      "Liberation DMG%"
+    ],
+    "endGameStat": [
+      "HP: 35000-50000+",
+      "DEF: 600+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 240-270%+",
+      "Energy Regen: 110%+",
+      "Aero DMG Bonus: 30%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Basic Attack",
+      "Res. Skill",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:cartethyia:1461391117713932431> Cartethyia", "<:ciaccona:1461391123703402517> Ciaccona", "<:chisa:1461391089037737984> Chisa, <:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Team #2: Alternative Teams",
+      "members": ["<:cartethyia:1461391117713932431> Cartethyia", "<:rover:1461391121132425542> Rover", "<:chisa:1461391089037737984> Chisa, <:sanhua:1461391196957184042> Sanhua, <:rover:1461391121132425542> Rover"]
+    }
+  ]
+  
+}

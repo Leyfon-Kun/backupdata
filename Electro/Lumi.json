@@ -1,0 +1,65 @@
+{
+  "name": "Lumi",
+  "element": "Electro <:eelectro:1460535251666210837>",
+  "rarity": 4,
+  "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
+  "role": ["SubDPS", "DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_dengdeng_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Ages of Harvest (R1) (108.33%)",
+      "Verdant Summit (R1) (101.11%)",
+      "Lustrous Razor (R1) (100.00%)",
+      "Autumntrace (R5) (94.03%)",
+      "Waning Redshift (R5) (86.84%)"
+    ],
+    "echoSet": [
+      "Moonlit Clouds",
+      "Void Thunder"
+    ],
+    "mainEcho": [
+      "Impermanence Heron (MC)",
+      "Nightmare: Thundering Mephis (VT)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Electro DMG%, Energy Regen)",
+      "Cost 3 (Electro DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen"
+    ],
+    "endGameStat": [
+      "HP: 14500+",
+      "DEF: 1100+",
+      "ATK: 2000-2800+",
+      "Crit Rate: 65%+",
+      "Crit DMG: 210%+",
+      "Energy Regen: 142-150%+",
+      "Electro DMG Bonus: 30-60%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Res. Skill",
+      "Intro Skill",
+      "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team (Jinhsi)",
+      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:lumi:1461391104996802600> Lumi", "<:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Best Team (Carlotta)",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:lumi:1461391104996802600> Lumi", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

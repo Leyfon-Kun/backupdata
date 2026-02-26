@@ -1,0 +1,69 @@
+{
+  "name": "Aemeath",
+  "element": "Fusion <:efusion:1460535176055488647>",
+  "rarity": 5,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Aimisi_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Everbright Polestar (R1) (100%)",
+      "Emerald of Genesis (R1) (83.50%)",
+      "Red Spring (R1) (83.50%)",
+      "Feather Edge (R5) (78.10%)",
+      "Somnoire Anchor (R5) (74.80%)"
+    ],
+    "echoSet": [
+      "Trailblazing Star"
+    ],
+    "mainEcho": [
+      "Sigillum"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit DMG, Crit Rate)",
+      "Cost 3 (Fusion DMG)",
+      "Cost 3 (Fusion DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit DMG",
+      "Crit Rate",
+      "Energy Regen",
+      "ATK%",
+      "Liberation DMG%",
+      "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1100+",
+      "ATK: 2000-2400+",
+      "Crit Rate: 65%+ (Before set bonuses)",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 115-125%+",
+      "Fusion DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Forte Circuit",
+      "Res. Skill",
+      "Basic Attack",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Best Team",
+      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina, <:chisa:1461391089037737984> Chisa"]
+    },
+    {
+      "name": "Mono Fusion",
+      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye, <:brant:1461391168834109520> Brant, <:changli:1461391171812327545> Changli"]
+    },
+    {
+      "name": "Alternative Teams",
+      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:lupa:1461391166057611558> Lupa, <:yinlin:1461391155794284574> Yinlin, <:jianxin:1461391126522237015> Jianxin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina, <:chisa:1461391089037737984> Chisa"]
+    }
+  ]
+  
+}

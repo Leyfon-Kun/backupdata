@@ -1,0 +1,82 @@
+{
+  "name": "Iuno",
+  "element": "Aero <:eaero:1460535334088610005>",
+  "rarity": 5,
+  "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
+  "role": ["SubDPS", "DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_younuo_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Moongazer's Sigil (R1) (100.00%)",
+      "Verity's Handle (R1) (84.10%)",
+      "Blazing Justice (R1) (80.40%)",
+      "Pulsation Bracer (R1) (77.90%)",
+      "Aether Strike (R5) (69.40%)"
+    ],
+    "echoSet": [
+      "Crown of Valor 3P\n**Best combined with**",
+      "Sierra Gale 2P (Recomended)",
+      "Gusts of Welkin 2P (Recomended)",
+      "Windward Pilgrimage 2P (Recomended)",
+      "Lingering Tunes 2P",
+      "Moonlit Clouds 2P"
+    ],
+    "mainEcho": [
+      "Lady of the Sea (CoV)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit DMG, Crit Rate)",
+      "Cost 3 (Aero DMG, ATK%)",
+      "Cost 3 (Aero DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Liberation DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1100+",
+      "ATK: 1800-2400+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 215-260%+",
+      "Energy Regen: 100%+",
+      "Aero DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "**Hybrid | Main DPS**",
+      "Forte Circuit **|** Forte Circuit",
+      "Res. Liberation **|** Res. Liberation",
+      "Intro Skill **|** Basic Attack",
+      "Res. Skill **|** Res. Skill",
+      "Basic Attack **|** Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:augusta:1461391145073643648> Augusta", "<:iuno:1461391114442379336> Iuno", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Team #2: Main DPS Iuno",
+      "members": ["<:iuno:1461391114442379336> Iuno", "<:lynae:1461391087003500666> Lynae, <:ciaccona:1461391123703402517> Ciaccona, <:yinlin:1461391155794284574> Yinlin, <:jianxin:1461391126522237015> Jianxin", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Team #3: Jiyan Team",
+      "members": ["<:jiyan:1461391128808132745> Jiyan", "<:iuno:1461391114442379336> Iuno", "<:ciaccona:1461391123703402517> Ciaccona, <:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Team #4: Galbrena Team",
+      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:iuno:1461391114442379336> Iuno", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Team #5: Frazzle Teams",
+      "members": ["<:zani:1461391091210125565> Zani, <:phoebe:1461391099636748380> Phoebe", "<:iuno:1461391114442379336> Iuno", "<:rover:1461391121132425542> Rover"]
+    }
+  ]
+  
+}

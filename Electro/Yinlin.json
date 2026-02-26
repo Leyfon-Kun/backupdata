@@ -1,0 +1,71 @@
+{
+  "name": "Yinlin",
+  "element": "Electro <:eelectro:1460535251666210837>",
+  "rarity": 5,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_yinlin_UI.webp",
+  "build": {
+    "bestWeapons": [
+      "Stringmaster (R1) (123.60%)",
+      "Rime-Draped Sprouts (R1) (106.86%)",
+      "Whispers of Sirens (R1) (106.52%)",
+      "Cosmic Ripples (R1) (100.00%)",
+      "Augment (R5) (95.34%)"
+    ],
+    "echoSet": [
+      "Moonlit Clouds",
+      "Void Thunder",
+      "Empyrean Anthem"
+    ],
+    "mainEcho": [
+      "Impermanence Heron (MC)",
+      "Nightmare: Thundering Mephis (VT & EA)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Electro DMG%)",
+      "Cost 3 (Electro DMG%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Energy Regen",
+      "Skill DMG%"
+    ],
+    "endGameStat": [
+      "HP: 15500+",
+      "DEF: 1250+",
+      "ATK: 2000-2400+",
+      "Crit Rate: 45-65%+",
+      "Crit DMG: 255-280%+",
+      "Energy Regen: 128%+",
+      "Electro DMG Bonus: 30-70%+"
+    ],
+    "skillPriority": [
+      "Forte Circuit",
+      "Res. Liberation",
+      "Res. Skill",
+      "Basic Attack",
+      "Intro Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Main DPS Iuno",
+      "members": ["<:iuno:1461391114442379336> Iuno", "<:yinlin:1461391155794284574> Yinlin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Jinhsi Team",
+      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:yinlin:1461391155794284574> Yinlin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Electro Teams",
+      "members": ["<:augusta:1461391145073643648> Augusta, <:xiangliyao:1461391147287974031> Xiangli Yao, <:calcharo:1461391158482567381> Calcharo", "<:yinlin:1461391155794284574> Yinlin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    }
+  ]
+  
+}

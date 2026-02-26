@@ -1,0 +1,65 @@
+{
+  "name": "Carlotta",
+  "element": "Glacio <:eglacio:1460535039296012524>",
+  "rarity": 5,
+  "weapon": "Pistols <:wpistols:1460535467060494376>",
+  "role": ["DPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kelaita_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "The Last Dance (R1) (100.00%)",
+	    "Phasic Homogenizer (R1) (93.50%)",
+	    "Woodland Aria (R1) (86.20%)",
+	    "Undying Flame (R5) (75.80%%)",
+	    "Pistols#26 (R5) (72.00%)"
+    ],
+    "echoSet": [
+      "Frosty Resolve"
+    ],
+    "mainEcho": [
+      "Sentry Construct (FR)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Glacio DMG, ATK%)",
+      "Cost 3 (ATK%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Energy Regen",
+	    "Crit Rate",
+	    "Crit DMG",
+	    "ATK%",
+	    "Resonance Skill DMG",
+	    "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 17000+",
+	    "DEF: 1150+",
+	    "ATK: 1900-2100+",
+	    "Crit Rate: 65-80%+",
+	    "Crit DMG: 210-280%+",
+	    "Energy Regen: 108-125%+",
+	    "Glacio DMG Bonus: 40-70%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+	    "Res. Skill",
+	    "Forte Circuit",  
+	    "Intro Skill",
+	    "Basic Attack"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:lynae:1461391087003500666> Lynae, <:zhezhi:1461391188719308810> Zhezhi, <:brant:1461391168834109520> Brant, <:cantarella:1461391064026845317> Cantarella", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Team #2: F2P Team",
+      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:taoqi:1461391084629266566> Taoqi, <:yangyang:1461391134453661844> Yangyang", "verina:1461391108100587747> Verina, <:buling:1461391142892339312> Buling"]
+    }
+  ]
+  
+}

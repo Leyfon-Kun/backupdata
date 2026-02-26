@@ -1,0 +1,81 @@
+{
+  "name": "Phrolova",
+  "element": "Havoc <:ehavoc:1460535003791364169>",
+  "rarity": 5,
+  "weapon": "Rectifier <:wrectifier:1460535414912979004>",
+  "role": ["DPS", "SubDPS"],
+  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_fuluoluo_UI.webp",
+  "build": {
+    "bestWeapons": [
+     "Lethean Elegy (R1) (100.00%)",
+     "Stringmaster (R1) (82.00%)",
+     "Whispers of Sirens (R1) (80.20%)",
+     "Cosmic Ripples (R1) (72.40%)",
+     "Augment (R5) (64.90%)"
+    ],
+    "echoSet": [
+      "Dream of the Lost 3P\n**Best combined with**",
+      "Havoc Eclipse 2P (Recommended)",
+      "Midnight Veil 2P (Recommended)",
+	    "Lingering Tunes 2P",
+	    "Moonlit Clouds 2P",
+	    "Empyrean Anthem 2P"
+    ],
+    "mainEcho": [
+      "Nightmare: Hecate (DotL)"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Havoc DMG)",
+      "Cost 3 (Havoc DMG)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
+    ],
+    "subStats": [
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+	    "Skill ATK DMG%",
+	    "Flat ATK"
+    ],
+    "endGameStat": [
+      "HP: 15000+",
+      "DEF: 1100+",
+      "ATK: 2000-2500+",
+      "Crit Rate: 60%+",
+      "Crit DMG: 215-260%+",
+      "Energy Regen 100%",
+      "Havoc DMG Bonus: 30-70%+"
+    ],
+    "skillPriority": [
+      "Res. Liberation",
+      "Basic Attack",
+      "Forte Circuit",
+      "Intro Skill",
+      "Res. Skill"
+    ]
+  },
+  "team": [
+    {
+      "name": "Team #1: Best Team",
+      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:cantarella:1461391064026845317> Cantarella", "<:qiuyuan:1461391111666012160> Qiuyuan, <:roccia:1461391073569017999> Roccia, <:danjin:1461391082280456257> Danjin, <:shorekeeper:1461391102316777716> Shorekeeper"]
+    },
+    {
+      "name": "Team #2: No Cantarella Teams",
+      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:roccia:1461391073569017999> Roccia, <:danjin:1461391082280456257> Danjin", "<:qiuyuan:1461391111666012160> Qiuyuan, <:shorekeeper:1461391102316777716> Shorekeeper, <:buling:1461391142892339312> Buling"]
+    },
+    {
+      "name": "Team #3: Jiyan/Galbrena Dual DPS",
+      "members": ["<:galbrena:1461391163813527663> Galbrena, <:jiyan:1461391128808132745> Jiyan", "<:phrolova:1461391061875425398> Phrolova", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Team #4: Phoebe Dual DPS",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:phrolova:1461391061875425398> Phrolova", "<:rover:1461391121132425542> Rover"]
+    },
+    {
+      "name": "Team #5: F2P Team",
+      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:danjin:1461391082280456257> Danjin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:rover:1461391121132425542> Rover, <:buling:1461391142892339312> Buling"]
+    }
+  ]
+  
+}
