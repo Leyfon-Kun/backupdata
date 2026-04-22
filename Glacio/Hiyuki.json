@@ -1,0 +1,41 @@
+{
+  "name": "Hiyuki",
+  "element": "Glacio <:eglacio:1460535039296012524>",
+  "rarity": 5,
+  "weapon": "Sword <:wsword:1460535378313482300>",
+  "role": ["DPS"],
+  "image": "https://www.prydwen.gg/static/af70234217fad9be257cb4430465fe9a/b26e2/hiyuki_card.webp",
+  "build": {
+    "bestWeapons": [
+      "They will be added soon!"
+    ],
+    "echoSet": [
+      "They will be added soon!"
+    ],
+    "mainEcho": [
+      "They will be added soon!"
+    ],
+    "bestEchoStats": [
+      "Cost 4 (They will be added soon!)",
+      "Cost 3 (They will be added soon!)",
+      "Cost 3 (They will be added soon!)",
+      "Cost 1 (They will be added soon!)",
+      "Cost 1 (They will be added soon!)"
+    ],
+    "subStats": [
+      "They will be added soon!"
+    ],
+    "endGameStat": [
+      "They will be added soon!"
+    ],
+    "skillPriority": [
+      "They will be added soon!"
+    ]
+  },
+  "team": [
+    {
+      "name": "They will be added soon!",
+      "members": ["They will be added soon!"]
+    }
+  ]
+}
