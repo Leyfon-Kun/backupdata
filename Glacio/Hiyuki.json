@@ -7,35 +7,57 @@
   "image": "https://www.prydwen.gg/static/af70234217fad9be257cb4430465fe9a/b26e2/hiyuki_card.webp",
   "build": {
     "bestWeapons": [
-      "They will be added soon!"
+      "Frostburn (R1) (100.00%)",
+      "Emerald of Genesis (R1) (83.10%)",
+      "Blazing Brilliance (R1) (81.30%)",
+      "Emerald Sentence (R1) (79.20%)",
+      "Feather Edge (R5) (75.90%)"
     ],
     "echoSet": [
-      "They will be added soon!"
+      "Wishes of Quiet Snowfall"
     ],
     "mainEcho": [
-      "They will be added soon!"
+      "Reminiscence: Threnodian - Voidborne Construct"
     ],
     "bestEchoStats": [
-      "Cost 4 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)"
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Glacio DMG%)",
+      "Cost 3 (Glacio DMG% > ATK%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
     ],
     "subStats": [
-      "They will be added soon!"
+      "Energy Regen",
+      "Crit DMG",
+      "Crit Rate (until 75%)",
+      "ATK%",
+      "Liberation DMG%"
     ],
     "endGameStat": [
-      "They will be added soon!"
+      "HP: 15000+",
+      "DEF: 1150+",
+      "ATK: 1800-2200+",
+      "Crit Rate: 65%+ (Before Set Bonus)",
+      "Crit DMG: 210-260%+",
+      "Energy Regen: 120%+",
+      "Glacio DMG Bonus: 40-70%+"
     ],
     "skillPriority": [
-      "They will be added soon!"
+      "Res. Liberation",
+      "Basic Attack",
+      "Forte Circuit",
+      "Res. Skill",
+      "Intro Skill"
     ]
   },
   "team": [
     {
-      "name": "They will be added soon!",
-      "members": ["They will be added soon!"]
+      "name": "Best Team",
+      "members": ["<:hiyuki:1499348956541358120> Hiyuki", "<:lynae:1461391087003500666> Lynae", "<:chisa:1461391089037737984> Chisa, <:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "Alternative Team",
+      "members": ["<:hiyuki:1499348956541358120> Hiyuki", "<:yinlin:1461391155794284574> Yinlin, <:zhezhi:1461391188719308810> Zhezhi, <:changli:1461391171812327545> Changli, <:jianxin:1461391126522237015> Jianxin", "<:chisa:1461391089037737984> Chisa"]
     }
   ]
 }
