@@ -53,16 +53,16 @@
   },
   "team": [
     {
-      "name": "Best Team",
-      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina, <:chisa:1461391089037737984> Chisa"]
+      "name": "Best Fusion Burst Team",
+      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:denia:1507639417244880958> Denia", "<:chisa:1461391089037737984> Chisa, <:lupa:1461391166057611558> Lupa"]
+    },
+    {
+      "name": "Best Tune Rupture Team",
+      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye"]
     },
     {
       "name": "Mono Fusion",
       "members": ["<:aemeath:1468918434946351104> Aemeath", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye, <:brant:1461391168834109520> Brant, <:changli:1461391171812327545> Changli"]
-    },
-    {
-      "name": "Alternative Teams",
-      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:lupa:1461391166057611558> Lupa, <:yinlin:1461391155794284574> Yinlin, <:jianxin:1461391126522237015> Jianxin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina, <:chisa:1461391089037737984> Chisa"]
     }
   ]
   
