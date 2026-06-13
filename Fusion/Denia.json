@@ -4,7 +4,7 @@
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
   "role": ["Support, Sub-DPS"],
-  "image": "https://www.prydwen.gg/static/7e015d7bccb3f0188c8019b5489302bb/b26e2/denia_card.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/Denia.png",
   "build": {
     "bestWeapons": [
       "Forged Dwarf Star (R1) (100.00%)",

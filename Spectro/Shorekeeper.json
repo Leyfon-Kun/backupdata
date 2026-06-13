@@ -4,7 +4,7 @@
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
   "role": ["Support"],
-  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shouanren_UI.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Specto/Shorekeeper.png",
   "build": {
     "bestWeapons": [
      "Stellar Symphony (R1) (116.30%)",

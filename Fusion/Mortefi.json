@@ -4,7 +4,7 @@
   "rarity": 4,
   "weapon": "Pistols <:wpistols:1460535467060494376>",
   "role": ["SubDPS"],
-  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_baer_UI.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/Mortefi.png",
   "build": {
     "bestWeapons": [
       "The Last Dance (R1) (106.12%)",

@@ -4,7 +4,7 @@
   "rarity": 5,
   "weapon": "Sword <:wsword:1460535378313482300>",
   "role": ["SubDPS"],
-  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_Qiuyuan_UI.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/Qiuyuan.png",
   "build": {
     "bestWeapons": [
       "Emerald Sentence (R1) (100.00%)",

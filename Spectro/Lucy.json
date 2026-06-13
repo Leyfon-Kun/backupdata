@@ -4,38 +4,61 @@
   "rarity": 5,
   "weapon": "Pistols <:wpistols:1460535467060494376>",
   "role": ["They will be added soon!"],
-  "image": "https://www.prydwen.gg/static/8ed34121223aa7eb72bc110bb485bf7d/b26e2/lucy_card.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Specto/Lucy.png",
   "build": {
     "bestWeapons": [
-      "They will be added soon!"
+      "Special Trigger (R1) (100.00%)",
+      "Lux & Umbra (R1) (88.40%)",
+      "Skull Thrasher (R1) (84.00%)",
+      "Phasic Homogenizer (R1) (83.50%)",
+      "Solar Flame (R5) (74.40%)"
     ],
     "echoSet": [
-      "They will be added soon!"
+      "Shadow of Shattered Dreams (1P)",
+      "-----Combined with-----",
+      "Celestial Light (or any +spectro%) (2P)",
+      "Endless Resonance (or any +ATK%) (2P)",
+      "Moonlit Clouds (or any +Energy Regen) (2P)"
     ],
     "mainEcho": [
-      "They will be added soon!"
+      "Reminiscence - Nightmare: Adam Smasher"
     ],
     "bestEchoStats": [
-      "Cost 4 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)"
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Spectro DMG)",
+      "Cost 3 (Spectro DMG > ATK%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
     ],
     "subStats": [
-      "They will be added soon!"
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "ATK%",
+      "Heavy Attack DMG%",
+      "Flat ATK"
     ],
     "endGameStat": [
-      "They will be added soon!"
+      "HP: 15500+",
+      "DEF: 1100+",
+      "ATK: 2100-2200+",
+      "Crit Rate: 65%+",
+      "Crit DMG: 210%+",
+      "Energy Regen: 125%+",
+      "Spectro DMG Bonus: 40-70%+"
     ],
     "skillPriority": [
-      "They will be added soon!"
+      "Res. Liberation",
+      "Basic Attack",
+      "Forte Circuit",
+      "Res. Skill",
+      "Intro Skill"
     ]
   },
   "team": [
     {
-      "name": "They will be added soon!",
-      "members": ["They will be added soon!"]
+      "name": "BEST TEAM",
+      "members": ["<:lucy:1514241510890012793> Lucy", "<:rebecca:1514241487628533771> Rebecca", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
     }
   ]
 }

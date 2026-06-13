@@ -4,7 +4,7 @@
   "rarity": 5,
   "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
   "role": ["DPS"],
-  "image": "https://www.prydwen.gg/static/e9198e709bd9118c490f073dd0f1201a/b26e2/44_card.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/Sigrika.png",
   "build": {
     "bestWeapons": [
       "Solsworn Ciphers (R1) (100.00%)",

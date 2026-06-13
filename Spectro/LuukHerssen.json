@@ -4,7 +4,7 @@
   "rarity": 5,
   "weapon": "Gauntlets <:wgauntlets:1460535414912979004>",
   "role": ["DPS"],
-  "image": "https://www.prydwen.gg/static/f7d3412a65cd804192fee1f89181a5a9/b26e2/45_card.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Specto/LuukHeressen.png",
   "build": {
     "bestWeapons": [
       "Daybreaker's Spine (R1) (100.00%)",

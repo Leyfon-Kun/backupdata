@@ -4,7 +4,7 @@
   "rarity": 4,
   "weapon": "Sword <:wsword:1460535378313482300>",
   "role": ["SubDPS"],
-  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_shanhua_UI.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/Sanhua.png",
   "build": {
     "bestWeapons": [
      "Blazing Brilliance (R1) (108.39%)",

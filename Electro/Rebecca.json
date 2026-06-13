@@ -3,39 +3,66 @@
   "element": "Electro <:eelectro:1460535251666210837>",
   "rarity": 5,
   "weapon": "Pistols <:wpistols:1460535467060494376>",
-  "role": ["They will be added soon!"],
-  "image": "https://www.prydwen.gg/static/f68b763b07afddcb4699f0817798785e/b26e2/rebecca_card.webp",
+  "role": ["Support, SubDPS"],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/Rebecca.png",
   "build": {
     "bestWeapons": [
-      "They will be added soon!"
+      "Skull Thrasher (R1) (100.00%)",
+      "Spectrum Blaster (R1) (96.30%)",
+      "Phasic Homogenizer (R1) (93.30%)",
+      "Woodland Aria (R1) (88.70%)",
+      "Solar Flame (R5) (80.60%)"
     ],
     "echoSet": [
-      "They will be added soon!"
+      "Moonlit Clouds"
     ],
     "mainEcho": [
-      "They will be added soon!"
+      "Bell-Borne Geochelone",
+      "Impermanence Heron"
     ],
     "bestEchoStats": [
-      "Cost 4 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)"
+      "Cost 4 (Crit Rate, Crit DMG)",
+      "Cost 3 (Electro DMG%)",
+      "Cost 3 (Electro DMG% > ATK%)",
+      "Cost 1 (ATK%)",
+      "Cost 1 (ATK%)"
     ],
     "subStats": [
-      "They will be added soon!"
+      "Energy Regen",
+      "Crit Rate",
+      "Crit DMG",
+      "Basic Attack DMG%",
+      "ATK%"
     ],
     "endGameStat": [
-      "They will be added soon!"
+      "HP: 16000+",
+      "DEF: 1150+",
+      "ATK: 2000-2300+",
+      "Crit Rate: 65-80%+",
+      "Crit DMG: 210-280%+",
+      "Energy Regen: 117-118%+",
+      "Electro DMG Bonus: 30-60%+"
     ],
     "skillPriority": [
-      "They will be added soon!"
+      "Forte Circuit",
+      "Res. Liberation",
+      "Basic Attack",
+      "Intro Skill",
+      "Res. Skill"
     ]
   },
   "team": [
     {
-      "name": "They will be added soon!",
-      "members": ["They will be added soon!"]
+      "name": "BEST TEAM",
+      "members": ["<:lucy:1514241510890012793> Lucy", "<:rebecca:1514241487628533771> Rebecca", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+    },
+    {
+      "name": "PHOEBE TEAM",
+      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:rebecca:1514241487628533771> Rebecca", "<:rover:1461391121132425542> Rover (Spectro)"]
+    },
+    {
+      "name": "ALTERNATIVES HEAVY ATTACK TEAMS",
+      "members": ["<:augusta:1461391145073643648> Augusta, <:jiyan:1461391128808132745> Jiyan, <:galbrena:1461391163813527663> Galbrena", "<:rebecca:1514241487628533771> Rebecca", "<:shorekeeper:1461391102316777716> Shorekeeper, <:mornye:1461391160991023257> Mornye, <:verina:1461391108100587747> Verina"]
     }
   ]
 }

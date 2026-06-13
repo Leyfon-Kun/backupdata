@@ -4,7 +4,7 @@
   "rarity": 5,
   "weapon": "Pistols <:wpistols:1460535467060494376>",
   "role": ["DPS"],
-  "image": "https://api.hakush.in/ww/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_kelaita_UI.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/Carlotta.png",
   "build": {
     "bestWeapons": [
      "The Last Dance (R1) (100.00%)",

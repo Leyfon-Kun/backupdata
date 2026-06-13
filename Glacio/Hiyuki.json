@@ -4,7 +4,7 @@
   "rarity": 5,
   "weapon": "Sword <:wsword:1460535378313482300>",
   "role": ["DPS"],
-  "image": "https://www.prydwen.gg/static/af70234217fad9be257cb4430465fe9a/b26e2/hiyuki_card.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/Hiyuki.png",
   "build": {
     "bestWeapons": [
       "Frostburn (R1) (100.00%)",
@@ -53,7 +53,7 @@
   "team": [
     {
       "name": "Best Team",
-      "members": ["<:hiyuki:1499348956541358120> Hiyuki", "<:lynae:1461391087003500666> Lynae", "<:chisa:1461391089037737984> Chisa, <:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": ["<:hiyuki:1499348956541358120> Hiyuki", "<:lucilla:1515379758026723348> Lucilla, <:lynae:1461391087003500666> Lynae", "<:chisa:1461391089037737984> Chisa, <:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
     },
     {
       "name": "Alternative Team",
