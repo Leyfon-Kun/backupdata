@@ -3,8 +3,10 @@
   "element": "Electro <:eelectro:1460535251666210837>",
   "rarity": 5,
   "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
-  "role": ["DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/XiangliYao.png",
+  "role": [
+    "DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/41.png",
   "build": {
     "bestWeapons": [
       "Verity's Handle (R1) (117.56%)",
@@ -55,20 +57,35 @@
   "team": [
     {
       "name": "Best Team",
-      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:lynae:1461391087003500666> Lynae, <:yinlin:1461391155794284574> Yinlin", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:xiangliyao:1461391147287974031> Xiangli Yao",
+        "<:lynae:1461391087003500666> Lynae, <:yinlin:1461391155794284574> Yinlin",
+        "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Expert Team",
-      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:changli:1461391171812327545> Changli", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:xiangliyao:1461391147287974031> Xiangli Yao",
+        "<:changli:1461391171812327545> Changli",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Budget Team",
-      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:jianxin:1461391126522237015> Jianxin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:xiangliyao:1461391147287974031> Xiangli Yao",
+        "<:jianxin:1461391126522237015> Jianxin",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Budget Expert Team",
-      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:yangyang:1461391134453661844> Yangyang", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:xiangliyao:1461391147287974031> Xiangli Yao",
+        "<:yangyang:1461391134453661844> Yangyang",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

@@ -3,58 +3,61 @@
   "element": "Glacio <:eglacio:1460535039296012524>",
   "rarity": 4,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
-  "role": ["Support"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/Baizhi.png",
+  "role": [
+    "Support"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/50.png",
   "build": {
     "bestWeapons": [
-     "Stellar Symphony (R1)",
-	   "Variation (R5)",
-	   "Call of the Abyss (R5)",
-	   "Rectifier of Voyager (R5)",
-	   "Rectifier#25 (R5)"
+      "Stellar Symphony (R1)",
+      "Variation (R5)",
+      "Call of the Abyss (R5)",
+      "Rectifier of Voyager (R5)",
+      "Rectifier#25 (R5)"
     ],
     "echoSet": [
       "Rejuvenating Glow",
-	    "Moonlit Clouds"
+      "Moonlit Clouds"
     ],
     "mainEcho": [
       "Fallacy of No Return (RG)",
-	    "Bell-Borne Geochelone (RG)",
-	    "Impermanence Heron (MC)"
+      "Bell-Borne Geochelone (RG)",
+      "Impermanence Heron (MC)"
     ],
     "bestEchoStats": [
       "Cost 4 (Healing Bonus, HP%)",
-	    "Cost 3 (Energy Regen)",
-	    "Cost 3 (Energy Regen)",
-	    "Cost 1 (HP%)",
-	    "Cost 1 (HP%)"
+      "Cost 3 (Energy Regen)",
+      "Cost 3 (Energy Regen)",
+      "Cost 1 (HP%)",
+      "Cost 1 (HP%)"
     ],
     "subStats": [
       "Energy Regen",
-	    "HP%",
-	    "Flat HP"
+      "HP%",
+      "Flat HP"
     ],
     "endGameStat": [
       "HP: 20000-35000+",
-	    "DEF: 1100+",
-	    "Crit Rate: 60%+",
-	    "Crit DMG: 210%+",
-	    "Energy Regen: 220%-230%",
-	    "Glacio DMG Bonus: 0-30%"
+      "DEF: 1100+",
+      "Crit Rate: 60%+",
+      "Crit DMG: 210%+",
+      "Energy Regen: 220%-230%",
+      "Glacio DMG Bonus: 0-30%"
     ],
     "skillPriority": [
       "Res. Liberation",
-	    "Res. Skill",
-	    "Forte Circuit",
-	    "Intro Skill",
-	    "Basic Attack"
+      "Res. Skill",
+      "Forte Circuit",
+      "Intro Skill",
+      "Basic Attack"
     ]
   },
   "team": [
     {
       "name": " Example Teams",
-      "members": ["**Baizhi** is very flexible and can be used in any team in the Support slot."]
+      "members": [
+        "**Baizhi** is very flexible and can be used in any team in the Support slot."
+      ]
     }
   ]
-  
 }

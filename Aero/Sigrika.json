@@ -3,8 +3,10 @@
   "element": "Aero <:eaero:1460535334088610005>",
   "rarity": 5,
   "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
-  "role": ["DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/Sigrika.png",
+  "role": [
+    "DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/11.png",
   "build": {
     "bestWeapons": [
       "Solsworn Ciphers (R1) (100.00%)",
@@ -52,11 +54,19 @@
   "team": [
     {
       "name": "Best Team",
-      "members": [":skiprika: Sigrika", ":qiuyuan: Qiuyuan", ":ciaccona: Ciaccona, :shorekeeper: Shorekeeper, :phrolova: Phrolova, :verina: Verina"]
+      "members": [
+        ":skiprika: Sigrika",
+        ":qiuyuan: Qiuyuan",
+        ":ciaccona: Ciaccona, :shorekeeper: Shorekeeper, :phrolova: Phrolova, :verina: Verina"
+      ]
     },
     {
       "name": "Alternatives Team",
-      "members": [":skiprika: Sigrika", ":lynae: Lynae, :ciaccona: Ciaccona", ":mornye: Mornye, :rover: Rover, :shorekeeper: Shorekeeper, :verina: Verina"]
+      "members": [
+        ":skiprika: Sigrika",
+        ":lynae: Lynae, :ciaccona: Ciaccona",
+        ":mornye: Mornye, :rover: Rover, :shorekeeper: Shorekeeper, :verina: Verina"
+      ]
     }
   ]
 }

@@ -3,8 +3,10 @@
   "element": "Fusion <:efusion:1460535176055488647>",
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
-  "role": ["DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/Encore.png",
+  "role": [
+    "DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/33.png",
   "build": {
     "bestWeapons": [
       "Stringmaster (R1) (110.00%)",
@@ -57,16 +59,27 @@
   "team": [
     {
       "name": "Best Team",
-      "members": ["<:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:brant:1461391168834109520> Brant"]
+      "members": [
+        "<:encore:1461391177130442914> Encore",
+        "<:lupa:1461391166057611558> Lupa",
+        "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:brant:1461391168834109520> Brant"
+      ]
     },
     {
       "name": "With Sanhua",
-      "members": ["<:encore:1461391177130442914> Encore", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:encore:1461391177130442914> Encore",
+        "<:sanhua:1461391196957184042> Sanhua",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Best Team (Dual DPS)",
-      "members": ["<:encore:1461391177130442914> Encore", "<:changli:1461391171812327545> Changli", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:encore:1461391177130442914> Encore",
+        "<:changli:1461391171812327545> Changli",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

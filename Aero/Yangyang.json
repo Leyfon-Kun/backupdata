@@ -3,8 +3,10 @@
   "element": "Aero <:eaero:1460535334088610005>",
   "rarity": 4,
   "weapon": "Sword <:wsword:1460535378313482300>",
-  "role": ["SubDPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/Yangyang.png",
+  "role": [
+    "SubDPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/47.png",
   "build": {
     "bestWeapons": [
       "Blazing Brilliance (R1) (102.39%)",
@@ -57,16 +59,27 @@
   "team": [
     {
       "name": "Best Team",
-      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:yangyang:1461391134453661844> Yangyang", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:carlotta:1461391183346532353> Carlotta",
+        "<:yangyang:1461391134453661844> Yangyang",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Budget Expert Team",
-      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:yangyang:1461391134453661844> Yangyang", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:xiangliyao:1461391147287974031> Xiangli Yao",
+        "<:yangyang:1461391134453661844> Yangyang",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Budget Expert Team",
-      "members": ["<:changli:1461391171812327545> Changli", "<:yangyang:1461391134453661844> Yangyang", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:changli:1461391171812327545> Changli",
+        "<:yangyang:1461391134453661844> Yangyang",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

@@ -3,8 +3,10 @@
   "element": "Electro <:eelectro:1460535251666210837>",
   "rarity": 5,
   "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
-  "role": ["DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/Calcharo.png",
+  "role": [
+    "DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/8.png",
   "build": {
     "bestWeapons": [
       "Wildfire Mark (R1) (100.72%)",
@@ -56,12 +58,19 @@
   "team": [
     {
       "name": "Best Team",
-      "members": ["<:calcharo:1461391158482567381> Calcharo", "<:lynae:1461391087003500666> Lynae, <:yinlin:1461391155794284574> Yinlin", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:calcharo:1461391158482567381> Calcharo",
+        "<:lynae:1461391087003500666> Lynae, <:yinlin:1461391155794284574> Yinlin",
+        "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Budget Team",
-      "members": ["<:calcharo:1461391158482567381> Calcharo", "<:jianxin:1461391126522237015> Jianxin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:calcharo:1461391158482567381> Calcharo",
+        "<:jianxin:1461391126522237015> Jianxin",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

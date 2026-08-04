@@ -3,21 +3,23 @@
   "element": "Havoc <:ehavoc:1460535003791364169>",
   "rarity": 5,
   "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
-  "role": ["SubDPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Havoc/Taoqi.png",
+  "role": [
+    "SubDPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Havoc/45.png",
   "build": {
     "bestWeapons": [
-     "Discord (R5) (100.00%)",
-     "Dauntless Evernight (R5) (107.54%)"
+      "Discord (R5) (100.00%)",
+      "Dauntless Evernight (R5) (107.54%)"
     ],
     "echoSet": [
       "Rejuvenating Glow",
-	    "Moonlit Clouds"
+      "Moonlit Clouds"
     ],
     "mainEcho": [
       "Fallacy of No Return (RG)",
-	    "Bell-Borne Geochelone (RG)",
-	    "Impermanence Heron (MC)"
+      "Bell-Borne Geochelone (RG)",
+      "Impermanence Heron (MC)"
     ],
     "bestEchoStats": [
       "Cost 4 (DEF%)",
@@ -30,7 +32,7 @@
       "Energy Regen",
       "Crit Rate / Crit dmg",
       "DEF%",
-	    "Flat DEF"
+      "Flat DEF"
     ],
     "endGameStat": [
       "HP: 15000+",
@@ -46,19 +48,26 @@
       "Forte Circuit **|** Res. Liberation",
       "Res. Skill **|** Forte Circuit",
       "Res. Liberation **|** Res. Skill",
-	    "Basic Attack **|** Basic Attack",
+      "Basic Attack **|** Basic Attack",
       "Intro Skill **|** Intro Skill"
     ]
   },
   "team": [
     {
       "name": "-",
-      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:taoqi:1461391084629266566> Taoqi", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:carlotta:1461391183346532353> Carlotta",
+        "<:taoqi:1461391084629266566> Taoqi",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "-",
-      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:taoqi:1461391084629266566> Taoqi", "<:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:jinshi:1461391150530301994> Jinshi",
+        "<:taoqi:1461391084629266566> Taoqi",
+        "<:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

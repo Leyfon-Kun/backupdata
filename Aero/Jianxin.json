@@ -3,8 +3,10 @@
   "element": "Aero <:eaero:1460535334088610005>",
   "rarity": 5,
   "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
-  "role": ["SubDPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/Jianxin.png",
+  "role": [
+    "SubDPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/39.png",
   "build": {
     "bestWeapons": [
       "Verity's Handle (R1) (114.70%)",
@@ -55,16 +57,27 @@
   "team": [
     {
       "name": "Best Team",
-      "members": ["<:iuno:1461391114442379336> Iuno", "<:jianxin:1461391126522237015> Jianxin", "<:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:iuno:1461391114442379336> Iuno",
+        "<:jianxin:1461391126522237015> Jianxin",
+        "<:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "F2P Jinhsi Team",
-      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:jianxin:1461391126522237015> Jianxin", "<:mortefi:1461391174391697409> Mortefi"]
+      "members": [
+        "<:jinshi:1461391150530301994> Jinshi",
+        "<:jianxin:1461391126522237015> Jianxin",
+        "<:mortefi:1461391174391697409> Mortefi"
+      ]
     },
     {
       "name": "Xiangli Yao Team",
-      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao", "<:jianxin:1461391126522237015> Jianxin", "<:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:xiangliyao:1461391147287974031> Xiangli Yao",
+        "<:jianxin:1461391126522237015> Jianxin",
+        "<:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     }
   ]
-  
 }

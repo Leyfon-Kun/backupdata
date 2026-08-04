@@ -3,24 +3,26 @@
   "element": "Spectro <:espectro:1460534963073056951>",
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
-  "role": ["Support"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Specto/Verina.png",
+  "role": [
+    "Support"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Spectro/37.png",
   "build": {
     "bestWeapons": [
-     "Variation (R5)",
-     "Stellar Symphony (R1)",
-     "Call of the Abyss (R5)",
-     "Rectifier#25 (R5)",
-     "Rectifier of Voyager (R5)"
+      "Variation (R5)",
+      "Stellar Symphony (R1)",
+      "Call of the Abyss (R5)",
+      "Rectifier#25 (R5)",
+      "Rectifier of Voyager (R5)"
     ],
     "echoSet": [
       "Rejuvenating Glow",
-	    "Moonlit Clouds"
+      "Moonlit Clouds"
     ],
     "mainEcho": [
       "Fallacy of No Return (RG)",
-	    "Bell-Borne Geochelone (RG)",
-	    "Impermanence Heron (MC)"
+      "Bell-Borne Geochelone (RG)",
+      "Impermanence Heron (MC)"
     ],
     "bestEchoStats": [
       "Cost 4 (Healing Bonus, ATK%)",
@@ -54,8 +56,9 @@
   "team": [
     {
       "name": "Example Teams",
-      "members": ["**Verina** is very flexible and can be used in any team in the Support slot."]
+      "members": [
+        "**Verina** is very flexible and can be used in any team in the Support slot."
+      ]
     }
   ]
-  
 }

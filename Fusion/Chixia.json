@@ -3,8 +3,10 @@
   "element": "Fusion <:efusion:1460535176055488647>",
   "rarity": 4,
   "weapon": "Pistols <:wpistols:1460535467060494376>",
-  "role": ["DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/Chixia.png",
+  "role": [
+    "DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/51.png",
   "build": {
     "bestWeapons": [
       "The Last Dance (R1) (108.35%)",
@@ -53,16 +55,27 @@
   "team": [
     {
       "name": "Best Team",
-      "members": ["<:chixia:1461391179911532709> Chixia", "<:brant:1461391168834109520> Brant, <:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa"]
+      "members": [
+        "<:chixia:1461391179911532709> Chixia",
+        "<:brant:1461391168834109520> Brant, <:encore:1461391177130442914> Encore",
+        "<:lupa:1461391166057611558> Lupa"
+      ]
     },
     {
       "name": "Brant Dual DPS Team",
-      "members": ["<:brant:1461391168834109520> Brant", "<:chixia:1461391179911532709> Chixia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:brant:1461391168834109520> Brant",
+        "<:chixia:1461391179911532709> Chixia",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Changli Team",
-      "members": ["<:changli:1461391171812327545> Changli", "<:chixia:1461391179911532709> Chixia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:changli:1461391171812327545> Changli",
+        "<:chixia:1461391179911532709> Chixia",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

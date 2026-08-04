@@ -3,8 +3,10 @@
   "element": "Glacio <:eglacio:1460535039296012524>",
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
-  "role": ["SubDPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/Lucilla.png",
+  "role": [
+    "SubDPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/12.png",
   "build": {
     "bestWeapons": [
       "Freeze Frame (R1) (100.00%)",
@@ -58,15 +60,27 @@
   "team": [
     {
       "name": "Glacio Chafe Team",
-      "members": ["<:hiyuki:1499348956541358120> Hiyuki", "<:lucilla:1515379758026723348> Lucilla", "<:chisa:1461391089037737984> Chisa"]
+      "members": [
+        "<:hiyuki:1499348956541358120> Hiyuki",
+        "<:lucilla:1515379758026723348> Lucilla",
+        "<:chisa:1461391089037737984> Chisa"
+      ]
     },
     {
       "name": "Echo Skill Hypercarry",
-      "members": ["<:skiprika:1484485033678082179> Sigrika, <:galbrena:1461391163813527663> Galbrena", "<:lucilla:1515379758026723348> Lucilla", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:skiprika:1484485033678082179> Sigrika, <:galbrena:1461391163813527663> Galbrena",
+        "<:lucilla:1515379758026723348> Lucilla",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Phrolova Team",
-      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:lucilla:1515379758026723348> Lucilla", "<:qiuyuan:1461391111666012160> Qiuyuan, <:cantarella:1461391064026845317> Cantarella"]
+      "members": [
+        "<:phrolova:1461391061875425398> Phrolova",
+        "<:lucilla:1515379758026723348> Lucilla",
+        "<:qiuyuan:1461391111666012160> Qiuyuan, <:cantarella:1461391064026845317> Cantarella"
+      ]
     }
   ]
 }

@@ -3,8 +3,10 @@
   "element": "Fusion <:efusion:1460535176055488647>",
   "rarity": 5,
   "weapon": "Pistols <:wpistols:1460535467060494376>",
-  "role": ["DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/Galbrena.png",
+  "role": [
+    "DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/30.png",
   "build": {
     "bestWeapons": [
       "Lux & Umbra (R1) (100.00%)",
@@ -58,24 +60,43 @@
   "team": [
     {
       "name": "Team #1: Best Team",
-      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye"]
+      "members": [
+        "<:galbrena:1461391163813527663> Galbrena",
+        "<:lupa:1461391166057611558> Lupa",
+        "<:mornye:1461391160991023257> Mornye"
+      ]
     },
     {
       "name": "Team #2: With Qiuyuan",
-      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:qiuyuan:1461391111666012160> Qiuyuan", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:galbrena:1461391163813527663> Galbrena",
+        "<:qiuyuan:1461391111666012160> Qiuyuan",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Team #3: Mono Fusion Alternatives",
-      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:brant:1461391168834109520> Brant, <:mortefi:1461391174391697409> Mortefi", "<:lupa:1461391166057611558> Lupa"]
+      "members": [
+        "<:galbrena:1461391163813527663> Galbrena",
+        "<:brant:1461391168834109520> Brant, <:mortefi:1461391174391697409> Mortefi",
+        "<:lupa:1461391166057611558> Lupa"
+      ]
     },
     {
       "name": "Team #4: Alt Premium Teams",
-      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:phrolova:1461391061875425398> Phrolova, <:iuno:1461391114442379336> Iuno", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:galbrena:1461391163813527663> Galbrena",
+        "<:phrolova:1461391061875425398> Phrolova, <:iuno:1461391114442379336> Iuno",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Team #5: F2P Team",
-      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:mortefi:1461391174391697409> Mortefi", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:galbrena:1461391163813527663> Galbrena",
+        "<:mortefi:1461391174391697409> Mortefi",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

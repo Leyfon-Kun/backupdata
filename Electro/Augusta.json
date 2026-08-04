@@ -3,8 +3,10 @@
   "element": "Electro <:eelectro:1460535251666210837>",
   "rarity": 5,
   "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
-  "role": ["DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/Augusta.png",
+  "role": [
+    "DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/19.png",
   "build": {
     "bestWeapons": [
       "Thunderflare Dominion (R1) (100.00%)",
@@ -58,8 +60,11 @@
   "team": [
     {
       "name": "Team #1 - Best Team",
-      "members": ["<:augusta:1461391145073643648> Augusta", "<:iuno:1461391114442379336> Iuno, <:mortefi:1461391174391697409> Mortefi, <:yinlin:1461391155794284574> Yinlin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:augusta:1461391145073643648> Augusta",
+        "<:iuno:1461391114442379336> Iuno, <:mortefi:1461391174391697409> Mortefi, <:yinlin:1461391155794284574> Yinlin",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

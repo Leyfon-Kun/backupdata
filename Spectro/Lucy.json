@@ -3,8 +3,10 @@
   "element": "Spectro <:espectro:1460534963073056951>",
   "rarity": 5,
   "weapon": "Pistols <:wpistols:1460535467060494376>",
-  "role": ["They will be added soon!"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Specto/Lucy.png",
+  "role": [
+    "They will be added soon!"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Spectro/1.png",
   "build": {
     "bestWeapons": [
       "Special Trigger (R1) (100.00%)",
@@ -58,7 +60,11 @@
   "team": [
     {
       "name": "BEST TEAM",
-      "members": ["<:lucy:1514241510890012793> Lucy", "<:rebecca:1514241487628533771> Rebecca", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:lucy:1514241510890012793> Lucy",
+        "<:rebecca:1514241487628533771> Rebecca",
+        "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
 }

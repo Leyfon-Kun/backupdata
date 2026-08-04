@@ -3,15 +3,17 @@
   "element": "Glacio <:eglacio:1460535039296012524>",
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
-  "role": ["SubDPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/Zhezhi.png",
+  "role": [
+    "SubDPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/42.png",
   "build": {
     "bestWeapons": [
-     "Rime-Draped Sprouts (R1) (120.15%)",
-     "Stringmaster (R1) (116.08%)",
-     "Whispers of Sirens (R1) (108.16%)",
-     "Cosmic Ripples (R1) (100.00%)",
-     "Fusion Accretion (R5) (86.45%)"
+      "Rime-Draped Sprouts (R1) (120.15%)",
+      "Stringmaster (R1) (116.08%)",
+      "Whispers of Sirens (R1) (108.16%)",
+      "Cosmic Ripples (R1) (100.00%)",
+      "Fusion Accretion (R5) (86.45%)"
     ],
     "echoSet": [
       "Moonlit Clouds",
@@ -30,10 +32,10 @@
     ],
     "subStats": [
       "Energy Regen",
-	    "Crit Rate",
-	    "Crit DMG",
-	    "Basic DMG%",
-	    "ATK%",
+      "Crit Rate",
+      "Crit DMG",
+      "Basic DMG%",
+      "ATK%",
       "Flat ATK"
     ],
     "endGameStat": [
@@ -56,20 +58,35 @@
   "team": [
     {
       "name": "Glacio DPS Team",
-      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:zhezhi:1461391188719308810> Zhezhi", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:carlotta:1461391183346532353> Carlotta",
+        "<:zhezhi:1461391188719308810> Zhezhi",
+        "<:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "Resonance Skill DPS Team",
-      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:zhezhi:1461391188719308810> Zhezhi", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:jinshi:1461391150530301994> Jinshi",
+        "<:zhezhi:1461391188719308810> Zhezhi",
+        "<:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "Zhezhi Main DPS Team",
-      "members": ["<:zhezhi:1461391188719308810> Zhezhi", "<:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:zhezhi:1461391188719308810> Zhezhi",
+        "<:sanhua:1461391196957184042> Sanhua",
+        "<:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "Free To Play Team",
-      "members": ["<:zhezhi:1461391188719308810> Zhezhi", "<:sanhua:1461391196957184042> Sanhua", "<:baizhi:1461391194176356385> Baizhi"]
+      "members": [
+        "<:zhezhi:1461391188719308810> Zhezhi",
+        "<:sanhua:1461391196957184042> Sanhua",
+        "<:baizhi:1461391194176356385> Baizhi"
+      ]
     }
   ]
-  
 }

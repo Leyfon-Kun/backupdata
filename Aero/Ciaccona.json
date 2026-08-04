@@ -4,7 +4,7 @@
   "rarity": 5,
   "weapon": "Pistols <:wpistols:1460535467060494376>",
   "role": ["SubDPS", "Support"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/Ciaccona.png",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/22.png",
   "build": {
     "bestWeapons": [
       "Woodland Aria (R1) (100.00%)",
@@ -64,11 +64,11 @@
     },
     {
       "name": "Team #3: Other Aero Teams",
-      "Members": ["<:iuno:1461391114442379336> Iuno, <:jiyan:1461391128808132745> Jiyan", "<:ciaccona:1461391123703402517> Ciaccona", "<:rover:1461391121132425542> Rover"]
+      "members": ["<:iuno:1461391114442379336> Iuno, <:jiyan:1461391128808132745> Jiyan", "<:ciaccona:1461391123703402517> Ciaccona", "<:rover:1461391121132425542> Rover"]
     },
     {
       "name": "Team #4: Spectro Frazzle Teams",
-      "Members": ["<:phoebe:1461391099636748380> Phoebe, <:zani:1461391091210125565> Zani", "<:ciaccona:1461391123703402517> Ciaccona", "<:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": ["<:phoebe:1461391099636748380> Phoebe, <:zani:1461391091210125565> Zani", "<:ciaccona:1461391123703402517> Ciaccona", "<:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"]
     }
   ]
   

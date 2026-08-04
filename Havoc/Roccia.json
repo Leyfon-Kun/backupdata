@@ -3,23 +3,25 @@
   "element": "Havoc <:ehavoc:1460535003791364169>",
   "rarity": 5,
   "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
-  "role": ["SubDPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Havoc/Roccia.png",
+  "role": [
+    "SubDPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Havoc/27.png",
   "build": {
     "bestWeapons": [
-     "Tragicomedy (R1) (116.72%)",
-     "Blazing Justice (R1) (105.51%)",
-     "Verity's Handle (R1) (104.91%)",
-     "Abyss Surges (R1) (100.00%)",
-     "Celestial Spiral (R5) (86.60%)"
+      "Tragicomedy (R1) (116.72%)",
+      "Blazing Justice (R1) (105.51%)",
+      "Verity's Handle (R1) (104.91%)",
+      "Abyss Surges (R1) (100.00%)",
+      "Celestial Spiral (R5) (86.60%)"
     ],
     "echoSet": [
       "Midnight Veil",
-	    "Moonlit Clouds"
+      "Moonlit Clouds"
     ],
     "mainEcho": [
       "Nightmare: Impermanence Heron (MV)",
-	    "Impermanence Heron (MC)"
+      "Impermanence Heron (MC)"
     ],
     "bestEchoStats": [
       "Cost 4 (Crit Rate, Crit DMG)",
@@ -32,9 +34,9 @@
       "Energy Regen",
       "Crit Rate",
       "Crit DMG",
-	    "ATK%",
-	    "Heavy Attack DMG%",
-	    "Flat ATK"
+      "ATK%",
+      "Heavy Attack DMG%",
+      "Flat ATK"
     ],
     "endGameStat": [
       "HP: 16500+",
@@ -56,16 +58,27 @@
   "team": [
     {
       "name": "Camellya Team",
-      "members": ["<:camellya:1461391079545897040> Camellya", "<:roccia:1461391073569017999> Roccia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:camellya:1461391079545897040> Camellya",
+        "<:roccia:1461391073569017999> Roccia",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Havoc Rover Team",
-      "members": ["<:rover:1461391121132425542> Rover", "<:roccia:1461391073569017999> Roccia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:rover:1461391121132425542> Rover",
+        "<:roccia:1461391073569017999> Roccia",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Danjin Team",
-      "members": ["<:danjin:1461391082280456257> Danjin", "<:roccia:1461391073569017999> Roccia", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:danjin:1461391082280456257> Danjin",
+        "<:roccia:1461391073569017999> Roccia",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

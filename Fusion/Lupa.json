@@ -3,8 +3,11 @@
   "element": "Fusion <:efusion:1460535176055488647>",
   "rarity": 5,
   "weapon": "Broadblade <:wbroadblade:1460535546483835056>",
-  "role": ["SubDPS", "Support"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/Lupa.png",
+  "role": [
+    "SubDPS",
+    "Support"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/20.png",
   "build": {
     "bestWeapons": [
       "Wildfire Mark (R1) (100.00%)",
@@ -53,20 +56,35 @@
   "team": [
     {
       "name": "Team #1: Best Team",
-      "members": ["<:galbrena:1461391163813527663> Galbrena, <:brant:1461391168834109520> Brant, <:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye"]
+      "members": [
+        "<:galbrena:1461391163813527663> Galbrena, <:brant:1461391168834109520> Brant, <:encore:1461391177130442914> Encore",
+        "<:lupa:1461391166057611558> Lupa",
+        "<:mornye:1461391160991023257> Mornye"
+      ]
     },
     {
       "name": "Team #2: Classic Mono Fusion",
-      "members": ["<:galbrena:1461391163813527663> Galbrena, <:changli:1461391171812327545> Changli, <:encore:1461391177130442914> Encore", "<:brant:1461391168834109520> Brant", "<:lupa:1461391166057611558> Lupa"]
+      "members": [
+        "<:galbrena:1461391163813527663> Galbrena, <:changli:1461391171812327545> Changli, <:encore:1461391177130442914> Encore",
+        "<:brant:1461391168834109520> Brant",
+        "<:lupa:1461391166057611558> Lupa"
+      ]
     },
     {
       "name": "Team #3: Chixia Best Team",
-      "members": ["<:chixia:1461391179911532709>", "<:brant:1461391168834109520> Brant", "<:lupa:1461391166057611558> Lupa"]
+      "members": [
+        "<:chixia:1461391179911532709>",
+        "<:brant:1461391168834109520> Brant",
+        "<:lupa:1461391166057611558> Lupa"
+      ]
     },
     {
       "name": "Team #4: Encore F2P Team",
-      "members": ["<:encore:1461391177130442914> Encore", "<:lupa:1461391166057611558> Lupa", "<:shorekeeper:1461391102316777716> Shorekeeper, <:chixia:1461391179911532709> Chixia"]
+      "members": [
+        "<:encore:1461391177130442914> Encore",
+        "<:lupa:1461391166057611558> Lupa",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:chixia:1461391179911532709> Chixia"
+      ]
     }
   ]
-  
 }

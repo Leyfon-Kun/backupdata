@@ -3,8 +3,10 @@
   "element": "Electro <:eelectro:1460535251666210837>",
   "rarity": 4,
   "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
-  "role": ["Support"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/Yuanwu.png",
+  "role": [
+    "Support"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/52.png",
   "build": {
     "bestWeapons": [
       "Verity's Handle (R1) (101.32%)",
@@ -56,8 +58,11 @@
   "team": [
     {
       "name": "Best Team",
-      "members": ["<:jinshi:1461391150530301994> Jinshi", "<:yuanwu:1461391153327898674> Yuanwu", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:jinshi:1461391150530301994> Jinshi",
+        "<:yuanwu:1461391153327898674> Yuanwu",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
-  
 }

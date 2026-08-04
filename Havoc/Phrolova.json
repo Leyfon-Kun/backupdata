@@ -3,23 +3,26 @@
   "element": "Havoc <:ehavoc:1460535003791364169>",
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
-  "role": ["DPS", "SubDPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Havoc/Phrolova.png",
+  "role": [
+    "DPS",
+    "SubDPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Havoc/9.png",
   "build": {
     "bestWeapons": [
-     "Lethean Elegy (R1) (100.00%)",
-     "Stringmaster (R1) (82.00%)",
-     "Whispers of Sirens (R1) (80.20%)",
-     "Cosmic Ripples (R1) (72.40%)",
-     "Augment (R5) (64.90%)"
+      "Lethean Elegy (R1) (100.00%)",
+      "Stringmaster (R1) (82.00%)",
+      "Whispers of Sirens (R1) (80.20%)",
+      "Cosmic Ripples (R1) (72.40%)",
+      "Augment (R5) (64.90%)"
     ],
     "echoSet": [
       "Dream of the Lost 3P\n**Best combined with**",
       "Havoc Eclipse 2P (Recommended)",
       "Midnight Veil 2P (Recommended)",
-	    "Lingering Tunes 2P",
-	    "Moonlit Clouds 2P",
-	    "Empyrean Anthem 2P"
+      "Lingering Tunes 2P",
+      "Moonlit Clouds 2P",
+      "Empyrean Anthem 2P"
     ],
     "mainEcho": [
       "Nightmare: Hecate (DotL)"
@@ -35,8 +38,8 @@
       "Crit Rate",
       "Crit DMG",
       "ATK%",
-	    "Skill ATK DMG%",
-	    "Flat ATK"
+      "Skill ATK DMG%",
+      "Flat ATK"
     ],
     "endGameStat": [
       "HP: 15000+",
@@ -58,24 +61,43 @@
   "team": [
     {
       "name": "Team #1: Best Team",
-      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:cantarella:1461391064026845317> Cantarella", "<:qiuyuan:1461391111666012160> Qiuyuan, <:roccia:1461391073569017999> Roccia, <:danjin:1461391082280456257> Danjin, <:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:phrolova:1461391061875425398> Phrolova",
+        "<:cantarella:1461391064026845317> Cantarella",
+        "<:qiuyuan:1461391111666012160> Qiuyuan, <:roccia:1461391073569017999> Roccia, <:danjin:1461391082280456257> Danjin, <:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "Team #2: No Cantarella Teams",
-      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:roccia:1461391073569017999> Roccia, <:danjin:1461391082280456257> Danjin", "<:qiuyuan:1461391111666012160> Qiuyuan, <:shorekeeper:1461391102316777716> Shorekeeper, <:buling:1461391142892339312> Buling"]
+      "members": [
+        "<:phrolova:1461391061875425398> Phrolova",
+        "<:roccia:1461391073569017999> Roccia, <:danjin:1461391082280456257> Danjin",
+        "<:qiuyuan:1461391111666012160> Qiuyuan, <:shorekeeper:1461391102316777716> Shorekeeper, <:buling:1461391142892339312> Buling"
+      ]
     },
     {
       "name": "Team #3: Jiyan/Galbrena Dual DPS",
-      "members": ["<:galbrena:1461391163813527663> Galbrena, <:jiyan:1461391128808132745> Jiyan", "<:phrolova:1461391061875425398> Phrolova", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:galbrena:1461391163813527663> Galbrena, <:jiyan:1461391128808132745> Jiyan",
+        "<:phrolova:1461391061875425398> Phrolova",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Team #4: Phoebe Dual DPS",
-      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:phrolova:1461391061875425398> Phrolova", "<:rover:1461391121132425542> Rover"]
+      "members": [
+        "<:phoebe:1461391099636748380> Phoebe",
+        "<:phrolova:1461391061875425398> Phrolova",
+        "<:rover:1461391121132425542> Rover"
+      ]
     },
     {
       "name": "Team #5: F2P Team",
-      "members": ["<:phrolova:1461391061875425398> Phrolova", "<:danjin:1461391082280456257> Danjin", "<:shorekeeper:1461391102316777716> Shorekeeper, <:rover:1461391121132425542> Rover, <:buling:1461391142892339312> Buling"]
+      "members": [
+        "<:phrolova:1461391061875425398> Phrolova",
+        "<:danjin:1461391082280456257> Danjin",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:rover:1461391121132425542> Rover, <:buling:1461391142892339312> Buling"
+      ]
     }
   ]
-  
 }

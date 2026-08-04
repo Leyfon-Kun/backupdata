@@ -3,15 +3,17 @@
   "element": "Spectro <:espectro:1460534963073056951>",
   "rarity": 5,
   "weapon": "Pistols <:wpistols:1460535467060494376>",
-  "role": ["SubDPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Specto/Lynae.png",
+  "role": [
+    "SubDPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Spectro/16.png",
   "build": {
     "bestWeapons": [
-     "Spectrum Blaster (R1) (100.00%)",
-     "Phasic Homogenizer (R1) (91.20%)",
-     "The Last Dance (R1) (85.00%)",
-     "Solar Flame (R1) (70.30%)",
-     "Relativistic Jet (R5) (68.80%)"
+      "Spectrum Blaster (R1) (100.00%)",
+      "Phasic Homogenizer (R1) (91.20%)",
+      "The Last Dance (R1) (85.00%)",
+      "Solar Flame (R1) (70.30%)",
+      "Relativistic Jet (R5) (68.80%)"
     ],
     "echoSet": [
       "Pact of Neonlight Leap"
@@ -54,20 +56,35 @@
   "team": [
     {
       "name": "Best Team",
-      "members": ["<:iuno:1461391114442379336> Iuno", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye, <:ciaccona:1461391123703402517> Ciaccona, <:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:iuno:1461391114442379336> Iuno",
+        "<:lynae:1461391087003500666> Lynae",
+        "<:mornye:1461391160991023257> Mornye, <:ciaccona:1461391123703402517> Ciaccona, <:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "Alternative Liberation Teams",
-      "members": ["<:xiangliyao:1461391147287974031> Xiangli Yao, <:calcharo:1461391158482567381> Calcharo", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:xiangliyao:1461391147287974031> Xiangli Yao, <:calcharo:1461391158482567381> Calcharo",
+        "<:lynae:1461391087003500666> Lynae",
+        "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Other Alternative Teams",
-      "members": ["<:carlotta:1461391183346532353> Carlotta, <:camellya:1461391079545897040> Camellya", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:carlotta:1461391183346532353> Carlotta, <:camellya:1461391079545897040> Camellya",
+        "<:lynae:1461391087003500666> Lynae",
+        "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Phoebe Team",
-      "members": ["<:phoebe:1461391099636748380> Phoebe", "<:lynae:1461391087003500666> Lynae", "<:rover:1461391121132425542> Rover"]
+      "members": [
+        "<:phoebe:1461391099636748380> Phoebe",
+        "<:lynae:1461391087003500666> Lynae",
+        "<:rover:1461391121132425542> Rover"
+      ]
     }
   ]
-  
 }

@@ -3,23 +3,25 @@
   "element": "Spectro <:espectro:1460534963073056951>",
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
-  "role": ["Support"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Specto/Shorekeeper.png",
+  "role": [
+    "Support"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Spectro/32.png",
   "build": {
     "bestWeapons": [
-     "Stellar Symphony (R1) (116.30%)",
-     "Variation (R5) (100.00%)",
-     "Rectifier#25 (R5) (87.20%)",
-     "Call of the Abyss (R5) (85.10%)"
+      "Stellar Symphony (R1) (116.30%)",
+      "Variation (R5) (100.00%)",
+      "Rectifier#25 (R5) (87.20%)",
+      "Call of the Abyss (R5) (85.10%)"
     ],
     "echoSet": [
       "Rejuvenating Glow",
-	    "Moonlit Clouds"
+      "Moonlit Clouds"
     ],
     "mainEcho": [
       "Fallacy of No Return (RG)",
-	    "Bell-Borne Geochelone (RG)",
-	    "Impermanence Heron (MC)"
+      "Bell-Borne Geochelone (RG)",
+      "Impermanence Heron (MC)"
     ],
     "bestEchoStats": [
       "Cost 4 (Crit DMG, HP%)",
@@ -32,11 +34,11 @@
       "Energy Regen",
       "Crit DMG",
       "Liberation DMG%",
-	    "HP%",
-	    "Crit Rate",
-	    "Flat HP",
-	    "ATK%",
-	    "Flat ATK"
+      "HP%",
+      "Crit Rate",
+      "Flat HP",
+      "ATK%",
+      "Flat ATK"
     ],
     "endGameStat": [
       "HP: 20000-35000+",
@@ -57,20 +59,35 @@
   "team": [
     {
       "name": "Augusta Team",
-      "members": ["<:augusta:1461391145073643648> Augusta", "<:iuno:1461391114442379336> Iuno, <:mortefi:1461391174391697409> Mortefi", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:augusta:1461391145073643648> Augusta",
+        "<:iuno:1461391114442379336> Iuno, <:mortefi:1461391174391697409> Mortefi",
+        "<:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "Carlotta Team",
-      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:zhezhi:1461391188719308810> Zhezhi", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:carlotta:1461391183346532353> Carlotta",
+        "<:zhezhi:1461391188719308810> Zhezhi",
+        "<:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "Zani Team",
-      "members": ["<:zani:1461391091210125565> Zani", "<:phoebe:1461391099636748380> Phoebe", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:zani:1461391091210125565> Zani",
+        "<:phoebe:1461391099636748380> Phoebe",
+        "<:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "Camellya Team",
-      "members": ["<:camellya:1461391079545897040> Camellya", "<:roccia:1461391073569017999> Roccia, <:sanhua:1461391196957184042> Sanhua", "<:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:camellya:1461391079545897040> Camellya",
+        "<:roccia:1461391073569017999> Roccia, <:sanhua:1461391196957184042> Sanhua",
+        "<:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     }
   ]
-  
 }

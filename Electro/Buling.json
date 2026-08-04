@@ -3,8 +3,10 @@
   "element": "Electro <:eelectro:1460535251666210837>",
   "rarity": 4,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
-  "role": ["Support"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/Buling.png",
+  "role": [
+    "Support"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Electro/29.png",
   "build": {
     "bestWeapons": [
       "Stringmaster (R1)",
@@ -53,12 +55,19 @@
   "team": [
     {
       "name": "Team #1: Best Team",
-      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:zhezhi:1461391188719308810> Zhezi, <:brant:1461391168834109520> Brant, <:cantarella:1461391064026845317> Cantarella", "<:buling:1461391142892339312> Buling"]
+      "members": [
+        "<:carlotta:1461391183346532353> Carlotta",
+        "<:zhezhi:1461391188719308810> Zhezi, <:brant:1461391168834109520> Brant, <:cantarella:1461391064026845317> Cantarella",
+        "<:buling:1461391142892339312> Buling"
+      ]
     },
     {
       "name": "Team #2: F2P Team",
-      "members": ["<:carlotta:1461391183346532353> Carlotta", "<:taoqi:1461391084629266566> Taoqi, <:yangyang:1461391134453661844> Yangyang", "<:buling:1461391142892339312> Buling"]
+      "members": [
+        "<:carlotta:1461391183346532353> Carlotta",
+        "<:taoqi:1461391084629266566> Taoqi, <:yangyang:1461391134453661844> Yangyang",
+        "<:buling:1461391142892339312> Buling"
+      ]
     }
   ]
-  
 }

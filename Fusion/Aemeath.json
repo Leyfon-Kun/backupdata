@@ -3,8 +3,10 @@
   "element": "Fusion <:efusion:1460535176055488647>",
   "rarity": 5,
   "weapon": "Sword <:wsword:1460535378313482300>",
-  "role": ["DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/Aemeath.png",
+  "role": [
+    "DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/15.png",
   "build": {
     "bestWeapons": [
       "Everbright Polestar (R1) (100%)",
@@ -54,16 +56,27 @@
   "team": [
     {
       "name": "Best Fusion Burst Team",
-      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:denia:1507639417244880958> Denia", "<:chisa:1461391089037737984> Chisa, <:lupa:1461391166057611558> Lupa"]
+      "members": [
+        "<:aemeath:1468918434946351104> Aemeath",
+        "<:denia:1507639417244880958> Denia",
+        "<:chisa:1461391089037737984> Chisa, <:lupa:1461391166057611558> Lupa"
+      ]
     },
     {
       "name": "Best Tune Rupture Team",
-      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:lynae:1461391087003500666> Lynae", "<:mornye:1461391160991023257> Mornye"]
+      "members": [
+        "<:aemeath:1468918434946351104> Aemeath",
+        "<:lynae:1461391087003500666> Lynae",
+        "<:mornye:1461391160991023257> Mornye"
+      ]
     },
     {
       "name": "Mono Fusion",
-      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:lupa:1461391166057611558> Lupa", "<:mornye:1461391160991023257> Mornye, <:brant:1461391168834109520> Brant, <:changli:1461391171812327545> Changli"]
+      "members": [
+        "<:aemeath:1468918434946351104> Aemeath",
+        "<:lupa:1461391166057611558> Lupa",
+        "<:mornye:1461391160991023257> Mornye, <:brant:1461391168834109520> Brant, <:changli:1461391171812327545> Changli"
+      ]
     }
   ]
-  
 }

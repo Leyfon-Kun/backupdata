@@ -3,8 +3,10 @@
   "element": "Fusion <:efusion:1460535176055488647>",
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
-  "role": ["Support, Sub-DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/Denia.png",
+  "role": [
+    "Support, Sub-DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Fusion/7.png",
   "build": {
     "bestWeapons": [
       "Forged Dwarf Star (R1) (100.00%)",
@@ -56,11 +58,19 @@
   "team": [
     {
       "name": "Fusion Burst Team",
-      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:denia:1507639417244880958> Denia", "<:chisa:1461391089037737984> Chisa, <:lupa:1461391166057611558> Lupa"]
+      "members": [
+        "<:aemeath:1468918434946351104> Aemeath",
+        "<:denia:1507639417244880958> Denia",
+        "<:chisa:1461391089037737984> Chisa, <:lupa:1461391166057611558> Lupa"
+      ]
     },
     {
       "name": "Tune Strain Team",
-      "members": ["<:luuk:1468919147273392202> Luuk Herssen", "<:denia:1507639417244880958> Denia", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:luuk:1468919147273392202> Luuk Herssen",
+        "<:denia:1507639417244880958> Denia",
+        "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     }
   ]
 }

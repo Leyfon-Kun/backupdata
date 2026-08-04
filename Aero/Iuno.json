@@ -3,8 +3,11 @@
   "element": "Aero <:eaero:1460535334088610005>",
   "rarity": 5,
   "weapon": "Gauntlets <:wgauntlets:1460535499264622728>",
-  "role": ["SubDPS", "DPS"],
-  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/Iuno.png",
+  "role": [
+    "SubDPS",
+    "DPS"
+  ],
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Aero/18.png",
   "build": {
     "bestWeapons": [
       "Moongazer's Sigil (R1) (100.00%)",
@@ -59,24 +62,43 @@
   "team": [
     {
       "name": "Team #1: Best Team",
-      "members": ["<:augusta:1461391145073643648> Augusta", "<:iuno:1461391114442379336> Iuno", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:augusta:1461391145073643648> Augusta",
+        "<:iuno:1461391114442379336> Iuno",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Team #2: Main DPS Iuno",
-      "members": ["<:iuno:1461391114442379336> Iuno", "<:lynae:1461391087003500666> Lynae, <:ciaccona:1461391123703402517> Ciaccona, <:yinlin:1461391155794284574> Yinlin, <:jianxin:1461391126522237015> Jianxin", "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:iuno:1461391114442379336> Iuno",
+        "<:lynae:1461391087003500666> Lynae, <:ciaccona:1461391123703402517> Ciaccona, <:yinlin:1461391155794284574> Yinlin, <:jianxin:1461391126522237015> Jianxin",
+        "<:mornye:1461391160991023257> Mornye, <:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Team #3: Jiyan Team",
-      "members": ["<:jiyan:1461391128808132745> Jiyan", "<:iuno:1461391114442379336> Iuno", "<:ciaccona:1461391123703402517> Ciaccona, <:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"]
+      "members": [
+        "<:jiyan:1461391128808132745> Jiyan",
+        "<:iuno:1461391114442379336> Iuno",
+        "<:ciaccona:1461391123703402517> Ciaccona, <:rover:1461391121132425542> Rover, <:shorekeeper:1461391102316777716> Shorekeeper"
+      ]
     },
     {
       "name": "Team #4: Galbrena Team",
-      "members": ["<:galbrena:1461391163813527663> Galbrena", "<:iuno:1461391114442379336> Iuno", "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"]
+      "members": [
+        "<:galbrena:1461391163813527663> Galbrena",
+        "<:iuno:1461391114442379336> Iuno",
+        "<:shorekeeper:1461391102316777716> Shorekeeper, <:verina:1461391108100587747> Verina"
+      ]
     },
     {
       "name": "Team #5: Frazzle Teams",
-      "members": ["<:zani:1461391091210125565> Zani, <:phoebe:1461391099636748380> Phoebe", "<:iuno:1461391114442379336> Iuno", "<:rover:1461391121132425542> Rover"]
+      "members": [
+        "<:zani:1461391091210125565> Zani, <:phoebe:1461391099636748380> Phoebe",
+        "<:iuno:1461391114442379336> Iuno",
+        "<:rover:1461391121132425542> Rover"
+      ]
     }
   ]
-  
 }
