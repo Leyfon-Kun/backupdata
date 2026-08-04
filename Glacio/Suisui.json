@@ -4,38 +4,65 @@
   "rarity": 5,
   "weapon": "Rectifier <:wrectifier:1460535414912979004>",
   "role": ["Support"],
-  "image": "https://api-v2.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRolePile/T_IconRole_Pile_SuiSui_UI.webp",
+  "image": "https://cdn.jsdelivr.net/gh/Leyfon-Kun/wuwa-assets@master/characters/Glacio/56.png",
   "build": {
     "bestWeapons": [
-     "They will be added soon!"
+      "Frostlight's Herald (R1)",
+      "Stellar Symphony (R1)",
+      "Variation (R5)",
+      "Call of the Abyss (R5)"
     ],
     "echoSet": [
-      "They will be added soon!"
+      "Song of Feathered Trace",
+      "Rejuvenating Glow"
     ],
     "mainEcho": [
-      "They will be added soon!"
+      "Forbidden Bastion (SoFT)",
+      "Fallacy of No Return (RG)"
     ],
     "bestEchoStats": [
-      "Cost 4 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 3 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)",
-      "Cost 1 (They will be added soon!)"
+      "Cost 4 (Crit DMG)",
+      "Cost 3 (Energy Regen)",
+      "Cost 3 (Energy  Regen / HP%)",
+      "Cost 1 (HP%)",
+      "Cost 1 (HP%)"
     ],
     "subStats": [
-      "They will be added soon!"
+      "Energy Regen",
+      "Crit DMG",
+      "HP%",
+      "Crit Rate",
+      "Basic Attack DMG%"
     ],
     "endGameStat": [
-      "They will be added soon!"
+      "HP: 35000-40000+",
+      "DEF: 1100+",
+      "ATK: 1100-1200+",
+      "Crit Rate: 20%+",
+      "Crit DMG: 250%+",
+      "Energy Regen: 260%",
+      "Glacio DMG Bonus: 0%+"
     ],
     "skillPriority": [
-      "They will be added soon!"
+      "Intro Skill",
+      "Forte Circuit",
+      "Res. Skill", 
+      "Res. Liberation",
+      "Basic Attack"
     ]
   },
   "team": [
     {
-      "name": "They will be added soon!",
-      "members": ["They will be added soon!"]
+      "name": "Best Team",
+      "members": ["<:yangyangxuanling:1525828927711612978> Yangyang Xuanling", "<:chisa:1461391089037737984> Chisa, <:rebecca:1514241487628533771> Rebecca, <:phrolova:1461391061875425398> Phrolova", "<:suisui:1534056481123471511> Suisui"]
+    },
+    {
+      "name": "Hiyuki Team",
+      "members": ["<:hiyuki:1499348956541358120> Hiyuki", "<:lucilla:1515379758026723348> Lucilla, <:lynae:1461391087003500666> Lynae", "<:suisui:1534056481123471511> Suisui"]
+    },
+    {
+      "name": "Aemeath Team",
+      "members": ["<:aemeath:1468918434946351104> Aemeath", "<:denia:1507639417244880958> Denia", "<:suisui:1534056481123471511> Suisui"]
     }
   ]
 }
